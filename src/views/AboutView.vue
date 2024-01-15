@@ -21,11 +21,11 @@ import Zoom from "../assets/ico/zoom.vue";
   <div class="shadow_collor">
     <!-- //Graph Peformance// -->
     <div class="bg_glow_color">
-      <div class="ClassName mt-20">
-        <h2 class="text-center shine text-3xl p-2 xl:p-0 font-bold xl:text-7xl leading-loose lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
+      <div class="ClassName mt-28">
+        <h2 class="text-center shine text-4xl p-2 xl:p-0 font-bold xl:text-7xl leading-relaxed lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 xl:w-2/4 text-center mx-auto xl:text-lg xl:mt-20 xl:leading-10 text-sm leading-9 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
+        <p class="p-6 xl:w-2/4 text-center mx-auto xl:text-lg xl:mt-20 xl:leading-10 text-sm leading-9 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
       </div>
     </div>
 
