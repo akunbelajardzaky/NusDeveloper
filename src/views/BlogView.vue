@@ -549,7 +549,7 @@ import locationIco from "../assets/ico/locationIco.vue";
     </section>
 
     <div class="ClassName p-5">
-      <div class="p-6 py-12 xl:mt-40 rounded-xl dark:bg-[#1c1c2e]">
+      <div class="p-6 py-12 xl:mt-40 rounded-xl xl:shadow-md dark:bg-[#1c1c2e]">
         <div class="container mx-auto">
           <div class="flex flex-col lg:flex-row items-center justify-between">
             <h2 class="text-center text-6xl dark:text-gray-200 tracki font-bold">Up to <br class="sm:hidden" />Popular</h2>

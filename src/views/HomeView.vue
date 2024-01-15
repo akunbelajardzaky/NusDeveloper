@@ -5,14 +5,14 @@
         <div>
           <p class="sm:text-lg daily hidden md:block lg:block xl:block p-3 text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-medium lg:w-11/12">Daily Us Collaboration</p>
         </div>
-        <h1 class="glow_text sm:mx-auto font-black xl:mt-5 text-blue-900 text-6xl text-start p-3 leading-[53px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
+        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-6xl text-start p-3 leading-[53px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
           We Are <br class="lg:block hidden" />
           <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
         </h1>
 
         <div class="md:flex lg:flex items-center justify-center">
-          <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-            <p class="text-start xl:mt-0 p-3 xl:p-0 xl:leading-10 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
+          <div class="xl:mt-5 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
+            <p class="text-start xl:mt-0 p-3 xl:p-0 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
             <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
               <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:shadow-sky-400 rounded-full">
                 <a class="dark:text-gray-200 text-gray-200 text-[13px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
@@ -47,7 +47,7 @@
               <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
               <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="#" target="_blank"></a></a>
             </div>
-            <div class="p-10 xl:p-3 rounded-2xl glass_background hidden md:block lg:block xl:flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
+            <div class="p-10 xl:p-3 rounded-2xl glass_background hidden md:block lg:block xl:flex items-center gap-6 lg:gap-12  justify-between grayscale lg:w-2/3">
               <a href="#" target="_blank"><VSCode /></a>
               <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
               <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
@@ -70,19 +70,19 @@
     <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-8 md:grid-cols-3 gap-10 xl:gap-20">
       <!-- Box 1 -->
-      <div class="xl:p-4 p-2 shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+      <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
         <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">😇Supporting</h2>
         <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 xl:mt-5 mt-3">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
       </div>
 
       <!-- Box 2 -->
-      <div class="xl:p-4 p-2 shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+      <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
         <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">🧐Member</h2>
         <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 xl:mt-5 mt-3">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
       </div>
 
       <!-- Box 3 -->
-      <div class="xl:p-4 p-2 shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+      <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
         <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">🤓Goals</h2>
         <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 xl:mt-5 mt-3">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
       </div>
