@@ -20,46 +20,46 @@ import Zoom from "../assets/ico/zoom.vue";
 <template>
   <div class="shadow_collor">
     <!-- //Graph Peformance// -->
-   <section id="header-about">
-    <div class="bg_glow_color">
-      <div class="ClassName mt-28">
-        <h2 class="text-center shine text-4xl p-2 xl:p-0 font-bold xl:text-7xl leading-relaxed lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
+    <section id="header-about">
+      <div class="bg_glow_color">
+        <div class="ClassName mt-10 xl:mt-28">
+          <h2 class="xl:text-center shine text-4xl p-3 xl:p-0 font-bold xl:text-7xl leading-normal lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
+        </div>
+        <div class="ClassName">
+          <p class="p-4 xl:w-2/4 text-start xl:text-center mx-auto xl:text-lg xl:mt-20 xl:leading-10 text-sm leading-6 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
+        </div>
       </div>
-      <div class="prgh">
-        <p class="p-6 xl:w-2/4 text-center mx-auto xl:text-lg xl:mt-20 xl:leading-10 text-sm leading-9 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
-      </div>
-    </div>
-   </section>
+    </section>
 
     <section class="p-4">
-      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10 shadow-xl dark:bg-[#1c1c2e]">
+      <div class="flex flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row xl:mt-40 gap-10 shadow-xl dark:bg-[#1c1c2e]">
         <div class="xl:p-4 w-full sm:w-1/2 rounded-2xl">
-          <div class="for_import mt-16 xl:mt-0 p-3 xl:p-0">
+          <div class="for_import xl:mt-16 p-3 xl:p-0">
             <Graph />
           </div>
         </div>
-        <div class="p-1 desk_hero_graph w-full xl:mt-0 mt-20 sm:w-1/2">
+        <div class="p-3 desk_hero_graph w-full xl:mt-0 sm:w-1/2">
           <p class="text-orange-400 xl:text-base text-sm">Management System</p>
-          <h3 class="text-2xl xl:text-5xl font-medium mt-5 leading-relaxed xl:leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
-          <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 mt-8 p-2 xl:p-0 leading-9">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
-          <p class="dark:text-gray-300 mt-9 text-sm xl:text-base leading-8">Rating Kami Untuk kalian Semua</p>
-          <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-16">
-            <a href="#" class="bg-blue-500 hover:bg-blue-600 mb-16 xl:mb-0 dark:text-gray-200 text-white text-center w-60 duration-100 p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
+          <h3 class="text-2xl xl:text-5xl font-medium mt-5 leading-tight xl:leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
+          <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 xl:mt-8 mt-3 xl:p-0 leading-6">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
+          <p class="dark:text-gray-300 xl:mt-9 mt-3 text-sm xl:text-base leading-8">Rating Kami Untuk kalian Semua</p>
+          <div class="items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-6 xl:mt-16">
+            <a href="#" class="bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 mb-8  items-center text-center xl:mb-0 dark:text-gray-200 xl:w-60 text-white duration-100 p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
           </div>
         </div>
       </div>
     </section>
 
     <section>
-      <div class="ClassName mt-28 grid_github p-2 rounded-3xl">
+      <div class="ClassName xl:mt-28 mt-5 grid_github p-2 rounded-3xl">
         <div class="flex flex-wrap items-center justify-between">
           <div class="w-full md:w-1/2 p-4">
             <div class="p-1 rounded center_txt">
-              <h4 class="text-2xl xl:text-3xl xl:leading-snug font-medium xl:w-1/1 leading-relaxed">Kami Berada di keempat Platfrom yang populer di Dunia ini. dan Kami Tersedia</h4>
-              <p class="mt-10 dark:text-gray-300 text-sm xl:text-base xl:leading-8 leading-9">dengan keempat platform yang kami buat, agar mempermudah Semua Atau Pendatang baru untuk Saling Berkomunikasi ataupun Berkosntribusi dengan kami. Kami sangat menghargai kedatangan Kalian Semua.</p>
+              <h4 class="text-2xl xl:text-3xl xl:leading-snug text-start font-medium xl:w-1/1 leading-tight">Kami Berada di keempat Platfrom yang populer di Dunia ini. dan Kami Tersedia</h4>
+              <p class="xl:mt-10 mt-4 dark:text-gray-300 text-start text-sm xl:text-base xl:leading-8 leading-6">dengan keempat platform yang kami buat, agar mempermudah Semua Atau Pendatang baru untuk Saling Berkomunikasi ataupun Berkosntribusi dengan kami. Kami sangat menghargai kedatangan Kalian Semua.</p>
             </div>
           </div>
-          <div class="w-full md:w-1/2 p-4 margin_state">
+          <div class="w-full md:w-1/2 p-4">
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
               <div class="grid grid-cols-1 gap-6">
                 <div class="p-6 rounded-3xl flex gap-3 dark:border dark:border-gray-800 hover:scale-105 shadow-xl duration-100 dark:bg-[#1c1c2e]">
@@ -100,9 +100,9 @@ import Zoom from "../assets/ico/zoom.vue";
     </section>
 
     <section>
-      <div class="other_gallery_card mt-44">
+      <div class="other_gallery_card mt-14 xl:mt-44">
         <h2 class="text-3xl text-center font-medium">Tim Utama Nusantara Developer</h2>
-        <div class="flex flex-wrap gap-10 mx-auto justify-center mt-10 rounded-3xl">
+        <div class="flex flex-wrap xl:gap-10 mx-auto justify-center mt-10 rounded-3xl">
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/dzaky.jpg" alt="" />
             <div class="text-center mt-5">
@@ -132,7 +132,7 @@ import Zoom from "../assets/ico/zoom.vue";
             </div>
           </div>
         </div>
-        <div class="flex flex-wrap mx-auto gap-10 justify-center mt-20 rounded-3xl">
+        <div class="flex flex-wrap mx-auto xl:gap-10 justify-center mt-20 rounded-3xl">
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/celis.jpg" alt="" />
             <div class="text-center mt-5">
@@ -165,15 +165,15 @@ import Zoom from "../assets/ico/zoom.vue";
       </div>
     </section>
 
-    <div class="ClassName maintxt_for_dc flex items-center justify-between mt-[550px] p-10">
+    <div class="ClassName maintxt_for_dc flex items-center justify-between mt-10 xl:mt-[550px] p-10">
       <h3 class="text-3xl leading-10 xl:text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <a href="https://discord.gg/gqhSqaDm" target="_blank">
-        <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border dark:border-gray-800 rounded-full dark:bg-gray-800 hover:shadow-2xl duration-100 hover:scale-95">
+        <div class="ClassName flex discord_and_button items-center p-3 border dark:border-gray-800 rounded-full dark:bg-gray-800 hover:shadow-2xl duration-100 hover:scale-95">
           <discordIco />
         </div>
       </a>
     </div>
-    <section class="p-2 margin_state dark:text-gray-200 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
+    <section class="p-2 dark:text-gray-200 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
       <div class="flex coloumn_rate items-center p-10 rounded-3xl">
         <div class="ClassName img">
           <img src="../assets/img/discordscreenshot.png" class="rounded-3xl hover:scale-105 duration-100" width="650px" alt="" />

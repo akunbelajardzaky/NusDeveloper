@@ -15,7 +15,7 @@
             <p class="text-start xl:mt-0 p-3 xl:p-0 xl:leading-10 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
             <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
               <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:shadow-sky-400 rounded-full">
-                <a class="dark:text-gray-200 text-gray-200 text-sm font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
+                <a class="dark:text-gray-200 text-gray-200 text-[13px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
               </button>
             </div>
 
@@ -165,11 +165,11 @@
   <div>
     <div class="xl:mt-40 mt-14 dm_sans">
       <div class="..">
-        <p class="text-[28px] p-3 xl:p-0 xl:text-4xl font-normal dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
+        <p class="text-[28px] p-3 xl:p-0 xl:text-4xl font-normal leading-8 dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
     </div>
     <div class="ClassName p-3 xl:p-0">
-      <div class="mt-3 xl:mt-12 p-5 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
+      <div class="mt-3 xl:mt-12 p-3 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
         <div>
           <!-- //marquee icon frontend// -->
           <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
@@ -208,7 +208,7 @@
 
         <div class="mt-5 xl:mt-20 flex items-center text-center xl:text-start justify-between">
           <div>
-            <h2 class="xl:text-3xl text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
+            <h2 class="xl:text-3xl text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
             <p class="dark:text-gray-300 mt-5 text-sm xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
           </div>
         </div>
@@ -235,8 +235,8 @@
       <div class="ClassName xl:flex xl:items-center gap-16">
         <div class="dm_sans">
           <div class="ClassName text_main_forms text-start">
-            <h3 class="text-4xl glow_red_text dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-            <p class="xl:w-3/4 xl:mt-6 mt-4 xl:text-lg xl:leading-9 text-sm dark:text-gray-300 leading-7">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
+            <h3 class="xl:text-4xl text-2xl text-start dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
+            <p class="xl:w-3/4 xl:mt-6 mt-4 xl:text-lg text-start xl:leading-9 text-sm dark:text-gray-300 leading-6">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
           </div>
           <div class="items-center justify-center gap-16 mt-14">
             <div class="ClassName">
