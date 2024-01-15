@@ -81,9 +81,7 @@
         margin-top: 50px;
     }
 
-    .bg_marquee {
-        margin-top: 20px;
-    }
+
 
     .desk_gear_emoji {
         text-align: center;
@@ -127,9 +125,7 @@
         text-align: center;
     }
 
-    .gallery-grid {
-        margin: 10px;
-    }
+ 
 
     .slideImport {
         flex-direction: column;

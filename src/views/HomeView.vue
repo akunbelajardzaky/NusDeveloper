@@ -59,7 +59,7 @@
   <div class="container bg-for-glowblue mx-auto p-4 mt-48 dm_sans">
     <p class="text-center font-medium dark:text-gray-200">ND Indonesia</p>
     <h3 class="text-center text-3xl leading-normal dark:text-gray-200 xl:text-6xl mt-3 font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-    <p class=" mt-0 text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto p-4 leading-9 xl:p-0 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
+    <p class="mt-0 text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto p-4 leading-9 xl:p-0 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 mt-20 md:grid-cols-3 gap-20">
       <!-- Box 1 -->
       <div class="p-4 shadow-md text-center dark:text-gray-200 text-lg">
@@ -90,7 +90,7 @@
     <div class="galleryGrid">
       <GalleryGrid />
     </div>
-    <div class="content_Desk md:w-1/2">
+    <div class="mt-10 xl:mt-0 md:w-1/2 mb-10 xl:mb-0">
       <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-center leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From School</h3>
       <p class="dark:text-gray-200 mt-7 p-2 xl:p-0 xl:text-lg text-center xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
       <div class="flex flex-wrap justify-center mt-10 xl:justify-start items-center xl:mt-14">
