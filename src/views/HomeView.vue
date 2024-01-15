@@ -5,7 +5,7 @@
         <div>
           <p class="sm:text-lg daily hidden md:block lg:block xl:block p-3 text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-medium lg:w-11/12">Daily Us Collaboration</p>
         </div>
-        <h1 class="glow_text sm:mx-auto font-black xl:mt-5 text-blue-900 text-5xl text-start p-3 leading-[50px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
+        <h1 class="glow_text sm:mx-auto font-black xl:mt-5 text-blue-900 text-6xl text-start p-3 leading-[53px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
           We Are <br class="lg:block hidden" />
           <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
         </h1>
@@ -68,23 +68,23 @@
     <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
     <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-3 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
     <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
-    <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-8 md:grid-cols-3 gap-5 xl:gap-20">
+    <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-8 md:grid-cols-3 gap-10 xl:gap-20">
       <!-- Box 1 -->
-      <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
-        <h2 class="text-2xl xl:font-semibold xl:mb-2">😇Supporting</h2>
-        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 mt-5">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
+      <div class="xl:p-4 p-2 shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+        <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">😇Supporting</h2>
+        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 xl:mt-5 mt-3">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
       </div>
 
       <!-- Box 2 -->
-      <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
-        <h2 class="text-2xl xl:font-semibold xl:mb-2">🧐Member</h2>
-        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 mt-5">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
+      <div class="xl:p-4 p-2 shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+        <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">🧐Member</h2>
+        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 xl:mt-5 mt-3">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
       </div>
 
       <!-- Box 3 -->
-      <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
-        <h2 class="text-2xl xl:font-semibold xl:mb-2">🤓Goals</h2>
-        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 mt-5">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
+      <div class="xl:p-4 p-2 shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+        <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">🤓Goals</h2>
+        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 xl:mt-5 mt-3">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
       </div>
     </div>
     <div class="text-center mt-20 xl:justify-center xl:flex">
