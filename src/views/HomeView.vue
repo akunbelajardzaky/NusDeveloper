@@ -9,11 +9,11 @@
         <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
       </h1>
 
-      <div class="md:flex col_content lg:flex items-center justify-center">
+      <div class="md:flex lg:flex items-center justify-center">
         <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-          <p class="mt-8 p-3 leading-8 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
+          <p class="mt-8 xl:mt-0 p-3 xl:p-0 xl:leading-10 leading-8 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
 
-          <div class="ico_pad grid grid-cols-3 space-x-4 md:space-x-6 mt-10 md:flex md:justify-center lg:justify-start">
+          <div class=" grid grid-cols-3 space-x-4 md:space-x-6 mt-14 md:flex md:justify-center lg:justify-start">
             <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
               <div class="flex justify-center space-x-3">
                 <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
@@ -39,7 +39,7 @@
             <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
             <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://www.instagram.com/zzz_3t44" target="_blank"></a></a>
           </div>
-          <div class="p-3 support_brand rounded-2xl glass_background flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
+          <div class="p-10 xl:p-3 rounded-2xl glass_background flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
             <a href="#" target="_blank"><VSCode /></a>
             <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/ge.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
             <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
