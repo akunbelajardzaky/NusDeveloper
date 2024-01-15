@@ -28,7 +28,7 @@ import "../assets/css/responsive.css";
         <div class="flex wrapperrast justify-between items-center">
           <a href="#">
             <div class="main-logo flex space-x-3 items-center">
-              <img src="../assets/img/ND.png" class="rounded-full" width="40px" alt="" />
+              <img src="../assets/img/ND.png" class="rounded-full" width="30px" alt="" />
               <h3 class="text-lg dark:text-white font-semibold">Nusantara Developer</h3>
             </div>
           </a>
