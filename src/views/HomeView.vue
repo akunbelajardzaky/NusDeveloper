@@ -14,7 +14,7 @@
           <div class="xl:mt-5 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
             <p class="text-start xl:mt-0 p-3 xl:p-0 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
             <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
-              <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:shadow-sky-400 rounded-full">
+              <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-400 rounded-full">
                 <a class="dark:text-gray-200 text-gray-200 text-[13px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
               </button>
             </div>
@@ -247,7 +247,7 @@
                   <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg dark:shadow-gray-900 mt-3 bg-transparent outline-none focus:border-blue-500 bg-[#1c1c2e] text-white" />
                 </div>
                 <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl dark:shadow-gray-900 shadow-lg focus:outline-none bg-transparent focus:border-blue-500 bg-[#1c1c2e] text-white"></textarea>
-                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 bg-blue-500 hover:shadow-md hover:shadow-sky-400 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600">Submit Form</button>
+                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 bg-blue-500 hover:shadow-md hover:dark:shadow-sky-400 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600">Submit Form</button>
               </form>
             </div>
           </div>
@@ -266,7 +266,7 @@
         </div>
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
         <div class="ClassName flex justify-center mt-10">
-          <button class="p-3 bg-blue-500 text-center md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:shadow-sky-400 rounded-full">
+          <button class="p-3 bg-blue-500 text-center md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:dark:shadow-sky-400 rounded-full">
             <a class="dark:text-gray-200 text-gray-200 text-sm text-center font-medium" href="#header-home">back to up</a>
           </button>
         </div>
