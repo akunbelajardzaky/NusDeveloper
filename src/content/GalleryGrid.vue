@@ -16,7 +16,7 @@ import '../assets/css/responsive.css'
 
 <style>
   .gallery-grid {
-    --size: min(95vmin, 500px);
+    --size: min(85vmin, 500px);
     box-shadow: 0 0 10px #0002, 0 20px 40px -20px #0004;
     width: var(--size);
     height: var(--size);

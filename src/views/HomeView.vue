@@ -65,24 +65,24 @@
   <div class="container bg-for-glowblue mx-auto p-4 mt-3 xl:mt-48 dm_sans">
     <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
     <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-3 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-    <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
-    <div class="grid grid-cols-1 sm:grid-cols-2 mt-20 md:grid-cols-3 gap-5 xl:gap-20">
+    <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-8 md:grid-cols-3 gap-5 xl:gap-20">
       <!-- Box 1 -->
       <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
         <h2 class="text-2xl xl:font-semibold xl:mb-2">😇Supporting</h2>
-        <p class="text-sm leading-6 xl:leading-8 mt-5">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
+        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 mt-5">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
       </div>
 
       <!-- Box 2 -->
       <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
         <h2 class="text-2xl xl:font-semibold xl:mb-2">🧐Member</h2>
-        <p class="text-sm leading-6 xl:leading-8 mt-5">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
+        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 mt-5">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
       </div>
 
       <!-- Box 3 -->
       <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
-        <h2 class="text-2xl xl:font-semibold xl:mb-2">🤓 Goals</h2>
-        <p class="text-sm leading-6 xl:leading-8 mt-5">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
+        <h2 class="text-2xl xl:font-semibold xl:mb-2">🤓Goals</h2>
+        <p class="text-sm leading-6 xl:leading-8 dark:text-gray-300 mt-5">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
       </div>
     </div>
     <div class="text-center mt-20 xl:justify-center xl:flex">
@@ -92,66 +92,68 @@
     </div>
   </div>
 
-  <div class="flex flex-col md:flex-row xl:mt-40 lg:flex-row xl:flex justify-around gap-2 items-center p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
-    <div class="galleryGrid">
-      <GalleryGrid />
-    </div>
-    <div class="mt-2 xl:mt-0 md:w-1/2 mb-10 xl:mb-0">
-      <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-start leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From School</h3>
-      <p class="dark:text-gray-200 xl:mt-7 text-sm xl:p-0 mt-2  xl:text-lg text-start xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
-      <div class="flex flex-wrap justify-start mt-3 xl:justify-start items-center xl:mt-14">
-        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/dirga.jpg" />
-        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/gantari.png" />
-        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/josha.jpg" />
-        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/hafidz.jpg" />
-        <span class="flex items-center justify-center w-12 h-12 font-semibold border rounded-full dark:bg-gray-900 dark:text-gray-100 dark:border-gray-700 mt-2">+8</span>
+  <div class="ClassName p-3 xl:p-0">
+    <div class="flex flex-col md:flex-row xl:mt-40 lg:flex-row xl:flex justify-around gap-2 items-center p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+      <div class="galleryGrid">
+        <GalleryGrid />
+      </div>
+      <div class="mt-2 xl:mt-0 md:w-1/2 mb-5 xl:mb-0">
+        <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-start leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From School</h3>
+        <p class="dark:text-gray-300 xl:mt-7 text-sm xl:p-0 mt-2 xl:text-lg text-start xl:text-start leading-6 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
+        <div class="flex flex-wrap justify-start mt-3 xl:justify-start items-center xl:mt-14">
+          <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/dirga.jpg" />
+          <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/gantari.png" />
+          <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/josha.jpg" />
+          <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/hafidz.jpg" />
+          <span class="flex items-center justify-center w-12 h-12 font-semibold border rounded-full dark:bg-gray-900 dark:text-gray-100 dark:border-gray-700 mt-2">+8</span>
+        </div>
       </div>
     </div>
   </div>
 
   <section>
-    <div class="mt-36 introduction_card">
+    <div class="xl:mt-36 mt-4">
       <div class="dm_sans p-5 xl:p-0">
         <h2 class="text-3xl xl:text-4xl text_love font-medium dark:text-gray-200">Kemampuan kami <span class="love">❤️</span> <span class="dark:font-semibold">Nusantara Developer</span></h2>
-        <p class="mt-6 text_desk_love xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-8">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
+        <p class="xl:mt-6 mt-3 text-sm xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-6">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
       </div>
     </div>
 
-    <div class="flex flex-wrap dm_sans mt-10 text-black dark:text-white">
+    <div class="flex flex-wrap xl:mt-10 text-black dark:text-white">
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-3">
-        <div class="border1 h-80 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 dark:bg-[#1c1c2e]">
+        <div class="border1 xl:h-80 border hover:scale-105 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 dark:bg-[#1c1c2e]">
           <Profile />
-          <h3 class="text-2xl font-semibold mt-7">Be friendly</h3>
-          <p class="mt-5 dark:text-gray-300 leading-8">Kami sangat ramah dalam segala hal, seperti kolaborasi dan tanya jawab.</p>
+          <h3 class="text-2xl font-semibold xl:mt-7">Be friendly</h3>
+          <p class="xl:mt-5 dark:text-gray-300 text-sm xl:text-base xl:leading-8 leading-6">Kami sangat ramah dalam segala hal, seperti kolaborasi dan tanya jawab.</p>
         </div>
       </div>
 
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-3">
-        <div class="border2 h-80 rounded-3xl flex items-center justify-center">
-          <div class="bord h-80 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30 dark:bg-[#1c1c2e]">
+        <div class="border2 xl:h-80 rounded-3xl flex items-center justify-center">
+          <div class="bord xl:h-80 border hover:scale-105 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30 dark:bg-[#1c1c2e]">
             <Clock />
-            <h3 class="text-2xl font-semibold mt-7">24/7 Hours</h3>
-            <p class="mt-5 dark:text-gray-300 leading-8">kami bekerja dalam 24 jam seminggu. untuk meningkatkan kinerja dan jam terbang bagi kami para pengembang.</p>
+            <h3 class="text-2xl font-semibold xl:mt-7">24/7 Hours</h3>
+            <p class="xl:mt-5 dark:text-gray-300 text-sm xl:text-base xl:leading-8 leading-6">kami bekerja dalam 24 jam seminggu. untuk meningkatkan kinerja dan jam terbang bagi kami para pengembang.</p>
           </div>
         </div>
       </div>
 
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-3">
-        <div class="border3 h-80 rounded-3xl flex items-center justify-center">
-          <div class="bord h-80 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30 dark:bg-[#1c1c2e]">
+        <div class="border3 xl:h-80 rounded-3xl flex items-center justify-center">
+          <div class="bord xl:h-80 border hover:scale-105 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30 dark:bg-[#1c1c2e]">
             <Lightning />
-            <h3 class="text-2xl font-semibold mt-7">Faster</h3>
-            <p class="mt-5 dark:text-gray-300 leading-8">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
+            <h3 class="text-2xl font-semibold xl:mt-7">Faster</h3>
+            <p class="xl:mt-5 dark:text-gray-300 text-sm xl:text-base xl:leading-8 leading-6">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
           </div>
         </div>
       </div>
 
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-3">
-        <div class="border4 h-80 rounded-3xl flex items-center justify-center">
-          <div class="bord h-80 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30 dark:bg-[#1c1c2e]">
+        <div class="border4 xl:h-80 rounded-3xl flex items-center justify-center">
+          <div class="bord xl:h-80 border hover:scale-105 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30 dark:bg-[#1c1c2e]">
             <chat />
-            <h3 class="text-2xl font-semibold mt-7">Message</h3>
-            <p class="mt-5 dark:text-gray-300 leading-8">kita akan selalu menjawab pertanyaan atau pernyataan dari orang lain jika kita memang perlu berkomunikasi.</p>
+            <h3 class="text-2xl font-semibold xl:mt-7">Message</h3>
+            <p class="xl:mt-5 dark:text-gray-300 text-sm xl:text-base xl:leading-8 leading-6">kita akan selalu menjawab pertanyaan atau pernyataan dari orang lain jika kita memang perlu berkomunikasi.</p>
           </div>
         </div>
       </div>
@@ -159,57 +161,59 @@
   </section>
 
   <div>
-    <div class="mt-40 dm_sans">
+    <div class="xl:mt-40 mt-14 dm_sans">
       <div class="..">
-        <p class="skill text-4xl font-normal dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
+        <p class="text-[28px] p-3 xl:p-0 xl:text-4xl font-normal dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
     </div>
-    <div class="mt-16 p-7 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
-      <div>
-        <!-- //marquee icon frontend// -->
-        <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
-          <div class="flex items-center gap-6 dark:text-gray-200">
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><htmlIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><VueIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><SvelteIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><ReactIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><AngularIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><TailwindIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><BootstrapIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><ViteIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><NuxtIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><VuetifyIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><PugIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><cssIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><jsIco /></div>
-          </div>
-        </marquee>
-        <!-- //marquee icon backend// -->
-        <marquee class="marquee2 mt-5 rounded-3xl" behavior="" direction="right" scrollamount="10">
-          <div class="flex items-center gap-6 dark:text-gray-200">
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><nestjsIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><expressjsIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><rubyIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><springIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><nextjsIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><hapijsIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><symfonyIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><laravelIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><fastIco /></div>
-            <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><djangoIco /></div>
-          </div>
-        </marquee>
-      </div>
-
-      <div class="dm_sans mt-20 flex items-center text-center xl:text-start justify-between">
+    <div class="ClassName p-3 xl:p-0">
+      <div class="mt-3 xl:mt-12 p-5 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
         <div>
-          <h2 class="text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
-          <p class="dark:text-gray-300 mt-5 text-sm xl:w-3/5 xl:text-lg xl:leading-9 leading-8 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
+          <!-- //marquee icon frontend// -->
+          <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
+            <div class="flex items-center gap-6 dark:text-gray-200">
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><htmlIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><VueIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><SvelteIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><ReactIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><AngularIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><TailwindIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><BootstrapIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><ViteIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><NuxtIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><VuetifyIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><PugIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><cssIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><jsIco /></div>
+            </div>
+          </marquee>
+          <!-- //marquee icon backend// -->
+          <marquee class="marquee2 mt-5 rounded-3xl" behavior="" direction="right" scrollamount="10">
+            <div class="flex items-center gap-6 dark:text-gray-200">
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><nestjsIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><expressjsIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><rubyIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><springIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><nextjsIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><hapijsIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><symfonyIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><laravelIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><fastIco /></div>
+              <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><djangoIco /></div>
+            </div>
+          </marquee>
         </div>
-        <!-- <div class="btn-about flex space-x-3">
+
+        <div class="mt-5 xl:mt-20 flex items-center text-center xl:text-start justify-between">
+          <div>
+            <h2 class="xl:text-3xl text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
+            <p class="dark:text-gray-300 mt-5 text-sm xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
+          </div>
+          <!-- <div class="btn-about flex space-x-3">
           <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:scale-95 duration-150 dark:bg-cyan-500 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
           <arrow />
         </div> -->
+        </div>
       </div>
     </div>
   </div>
