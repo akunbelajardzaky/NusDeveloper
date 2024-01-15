@@ -9,11 +9,7 @@
   .allert {
     font-size: 13px;
   }
-  .max_desk {
-    max-width: 630px;
-    font-size: 17px;
-    line-height: 33px;
-  }
+
   .max_paragraph {
     max-width: 680px;
   }
@@ -86,4 +82,8 @@
 
   .red_message_txt {
     text-shadow: 0px 0px 30px red;
+  }
+
+  .bg-for-glowblue {
+    filter: drop-shadow(0px 0px 200px rgb(0, 255, 255));
   }
