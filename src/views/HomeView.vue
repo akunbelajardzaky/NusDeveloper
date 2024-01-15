@@ -205,7 +205,6 @@
             </div>
           </marquee>
         </div>
-
         <div class="mt-5 xl:mt-20 flex items-center text-center xl:text-start justify-between">
           <div>
             <h2 class="xl:text-3xl text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
