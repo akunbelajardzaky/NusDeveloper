@@ -30,7 +30,7 @@ import Zoom from "../assets/ico/zoom.vue";
     </div>
 
     <section class="p-4">
-      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row  mt-40 gap-10 shadow-xl dark:bg-[#1c1c2e]">
+      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10 shadow-xl dark:bg-[#1c1c2e]">
         <div class="xl:p-4 w-full sm:w-1/2 rounded-2xl">
           <div class="for_import mt-16 xl:mt-0 p-3 xl:p-0">
             <Graph />
@@ -167,7 +167,6 @@ import Zoom from "../assets/ico/zoom.vue";
       <h3 class="text-3xl leading-10 xl:text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border dark:border-gray-800 rounded-full dark:bg-gray-800 hover:shadow-2xl duration-100 hover:scale-95">
         <discordIco />
-        <h4 class="font-medium dark:text-gray-200 text-gray-900">Join</h4>
       </div>
     </div>
     <section class="p-2 margin_state dark:text-gray-200 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
