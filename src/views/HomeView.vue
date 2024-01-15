@@ -113,7 +113,7 @@
 
   <section>
     <div class="xl:mt-36 mt-4">
-      <div class="dm_sans p-5 xl:p-0">
+      <div class="p-5 xl:p-0">
         <h2 class="text-3xl xl:text-4xl text_love font-medium dark:text-gray-200">Kemampuan kami <span class="love">❤️</span> <span class="dark:font-semibold">Nusantara Developer</span></h2>
         <p class="xl:mt-6 mt-3 text-sm xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-6">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
       </div>
@@ -209,10 +209,6 @@
             <h2 class="xl:text-3xl text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
             <p class="dark:text-gray-300 mt-5 text-sm xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
           </div>
-          <!-- <div class="btn-about flex space-x-3">
-          <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:scale-95 duration-150 dark:bg-cyan-500 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
-          <arrow />
-        </div> -->
         </div>
       </div>
     </div>
@@ -229,16 +225,16 @@
       </div>
     </div>
 
-    <div class="content_image_blur mt-36">
+    <div class="content_image_blur mt-10 xl:mt-36">
       <contentBlur />
     </div>
 
-    <section class="mt-52 forms">
+    <section class="xl:mt-52 mt-10 forms">
       <div class="ClassName xl:flex xl:items-center gap-16">
         <div class="dm_sans">
           <div class="ClassName text_main_forms text-start">
             <h3 class="text-4xl glow_red_text dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-            <p class="xl:w-3/4 mt-6 xl:text-lg xl:leading-9 dark:text-gray-300 leading-7">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
+            <p class="xl:w-3/4 xl:mt-6 mt-4 xl:text-lg xl:leading-9 text-sm dark:text-gray-300 leading-7">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
           </div>
           <div class="items-center justify-center gap-16 mt-14">
             <div class="ClassName">
@@ -249,7 +245,7 @@
                   <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg dark:shadow-gray-900 mt-3 bg-transparent outline-none focus:border-blue-500 bg-[#1c1c2e] text-white" />
                 </div>
                 <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl dark:shadow-gray-900 shadow-lg focus:outline-none bg-transparent focus:border-blue-500 bg-[#1c1c2e] text-white"></textarea>
-                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600 bg-[#1c1c2e]">Submit Form</button>
+                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 bg-blue-500 hover:shadow-md hover:shadow-sky-400 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600">Submit Form</button>
               </form>
             </div>
           </div>
