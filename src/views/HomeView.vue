@@ -1,65 +1,67 @@
 <template>
-  <div class="ClassAll">
-    <div class="relative xl:container mt-10 xl:mt-0 mx-auto">
-      <div>
-        <p class="sm:text-lg daily hidden md:block lg:block xl:block p-3 text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-medium lg:w-11/12">Daily Us Collaboration</p>
-      </div>
-      <h1 class="glow_text sm:mx-auto font-black xl:mt-5 text-blue-900 text-5xl text-start p-3 leading-[50px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
-        We Are <br class="lg:block hidden" />
-        <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
-      </h1>
+  <section id="header-home">
+    <div class="ClassAll">
+      <div class="relative xl:container mt-10 xl:mt-0 mx-auto">
+        <div>
+          <p class="sm:text-lg daily hidden md:block lg:block xl:block p-3 text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-medium lg:w-11/12">Daily Us Collaboration</p>
+        </div>
+        <h1 class="glow_text sm:mx-auto font-black xl:mt-5 text-blue-900 text-5xl text-start p-3 leading-[50px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
+          We Are <br class="lg:block hidden" />
+          <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
+        </h1>
 
-      <div class="md:flex lg:flex items-center justify-center">
-        <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-          <p class="text-start xl:mt-0 p-3 xl:p-0 xl:leading-10 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
-          <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
-            <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:shadow-sky-400 rounded-full">
-              <a class="dark:text-gray-200 text-gray-200 text-sm font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
-            </button>
-          </div>
+        <div class="md:flex lg:flex items-center justify-center">
+          <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
+            <p class="text-start xl:mt-0 p-3 xl:p-0 xl:leading-10 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
+            <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
+              <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:shadow-sky-400 rounded-full">
+                <a class="dark:text-gray-200 text-gray-200 text-sm font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
+              </button>
+            </div>
 
-          <div class="ClassName hidden md:block lg:block xl:block">
-            <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-7 md:flex md:justify-center lg:justify-start">
-              <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
-                <div class="flex justify-center space-x-3">
-                  <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
-                  <span class="hidden font-medium md:block dark:text-gray-200">Slack</span>
-                </div>
-              </a>
-              <a aria-label="add to chat" href="#" target="_blank" class="google_chat p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30">
-                <div class="flex justify-center space-x-4">
-                  <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/chat.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                  <span class="hidden font-medium md:block dark:text-white">Google Chat</span>
-                </div>
-              </a>
-              <a aria-label="add to zoom" href="#" target="_blank" class="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
-                <div class="flex justify-center space-x-4">
-                  <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/zoom.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                  <span class="hidden font-medium md:block dark:text-white">Zoom</span>
-                </div>
-              </a>
+            <div class="ClassName hidden md:block lg:block xl:block">
+              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-7 md:flex md:justify-center lg:justify-start">
+                <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
+                  <div class="flex justify-center space-x-3">
+                    <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
+                    <span class="hidden font-medium md:block dark:text-gray-200">Slack</span>
+                  </div>
+                </a>
+                <a aria-label="add to chat" href="#" target="_blank" class="google_chat p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30">
+                  <div class="flex justify-center space-x-4">
+                    <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/chat.png" alt="chat logo" loading="lazy" width="128" height="128" />
+                    <span class="hidden font-medium md:block dark:text-white">Google Chat</span>
+                  </div>
+                </a>
+                <a aria-label="add to zoom" href="#" target="_blank" class="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
+                  <div class="flex justify-center space-x-4">
+                    <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/zoom.png" alt="chat logo" loading="lazy" width="128" height="128" />
+                    <span class="hidden font-medium md:block dark:text-white">Zoom</span>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="text-start text-sm dark:text-gray-300 hidden md:block lg:block xl:block mt-2 p-3 xl:mt-7">
+              🔥🌟
+              <span>Other integrations :</span>
+              <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
+              <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="#" target="_blank"></a></a>
+            </div>
+            <div class="p-10 xl:p-3 rounded-2xl glass_background hidden md:block lg:block xl:flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
+              <a href="#" target="_blank"><VSCode /></a>
+              <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
+              <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
             </div>
           </div>
-          <div class="text-start text-sm dark:text-gray-300 hidden md:block lg:block xl:block mt-2 p-3 xl:mt-7">
-            🔥🌟
-            <span>Other integrations :</span>
-            <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
-            <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="#" target="_blank"></a></a>
-          </div>
-          <div class="p-10 xl:p-3 rounded-2xl glass_background hidden md:block lg:block xl:flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
-            <a href="#" target="_blank"><VSCode /></a>
-            <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-            <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-          </div>
-        </div>
 
-        <!-- //image header// -->
-        <div class="ClassName globe_mod hidden md:block lg:block xl:block">
-          <ImageGlobe />
+          <!-- //image header// -->
+          <div class="ClassName globe_mod hidden md:block lg:block xl:block">
+            <ImageGlobe />
+          </div>
         </div>
       </div>
     </div>
-  </div>
+  </section>
 
   <!-- content feature -->
   <div class="container bg-for-glowblue mx-auto p-4 mt-3 xl:mt-48 dm_sans">
@@ -263,6 +265,11 @@
           <h3 class="text-3xl font-semibold dark:text-gray-200">Nusantara Developer</h3>
         </div>
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
+        <div class="ClassName flex justify-center mt-10">
+          <button class="p-3 bg-blue-500 text-center md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:shadow-sky-400 rounded-full">
+            <a class="dark:text-gray-200 text-gray-200 text-sm text-center font-medium" href="#header-home">back to up</a>
+          </button>
+        </div>
         <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
           <ul class="flex group_cr items-center gap-5 flex-wrap md:mb-0">
             <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">@copyright</a></li>
