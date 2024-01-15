@@ -4,7 +4,7 @@
       <div>
         <p class="sm:text-lg daily text-orange-400 text-center md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-medium lg:w-11/12">Daily Us Collaboration</p>
       </div>
-      <h1 class="glow_text sm:mx-auto font-black mt-3 text-blue-900 text-5xl text-center leading-tight xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
+      <h1 class="glow_text sm:mx-auto font-black mt-3 xl:mt-5 text-blue-900 text-5xl text-center leading-tight xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
         We Are <br class="lg:block hidden" />
         <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
       </h1>
