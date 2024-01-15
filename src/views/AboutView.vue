@@ -42,7 +42,7 @@ import Zoom from "../assets/ico/zoom.vue";
           <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 mt-8 p-2 xl:p-0 leading-9">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
           <p class="dark:text-gray-300 mt-9 text-sm xl:text-base leading-8">Rating Kami Untuk kalian Semua</p>
           <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-16">
-            <a href="#" class="bg-blue-500 mb-16 xl:mb-0 dark:text-gray-200 hover:bparent hover:border text-white hover:border-blue-400 text-center w-60 duration-100 p-3 rounded-xl hover:scale-95">Read More</a>
+            <a href="#" class="bg-blue-500 hover:bg-blue-600 mb-16 xl:mb-0 dark:text-gray-200 text-white text-center w-60 duration-100 p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
           </div>
         </div>
       </div>
