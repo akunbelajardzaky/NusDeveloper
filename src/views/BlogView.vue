@@ -1,6 +1,5 @@
 <script setup>
 import "../assets/css/responsive.css";
-import "../assets/css/graphpie.css";
 import "../views/style/BlogView.css";
 import GithubIco from "../assets/ico/githubIco.vue";
 import facebookIco from "../assets/ico/facebookIco.vue";

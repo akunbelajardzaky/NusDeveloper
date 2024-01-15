@@ -17,3 +17,10 @@
   .red_message_txt {
     text-shadow: 0px 0px 30px red;
   }
+
+  @media screen and (max-width:768px) {
+    .hero_about {
+      flex-direction: column;
+    }
+
+  }

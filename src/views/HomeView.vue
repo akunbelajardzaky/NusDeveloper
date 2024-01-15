@@ -37,11 +37,10 @@
             🔥🌟
             <span>Other integrations :</span>
             <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
-            <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://www.instagram.com/zzz_3t44" target="_blank"></a></a>
+            <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="#" target="_blank"></a></a>
           </div>
           <div class="p-10 xl:p-3 rounded-2xl glass_background flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
             <a href="#" target="_blank"><VSCode /></a>
-            <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/ge.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
             <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
             <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
           </div>
@@ -153,7 +152,7 @@
   </section>
 
   <div>
-    <div class="mt-60 dm_sans">
+    <div class="mt-40 dm_sans">
       <div class="..">
         <p class="skill text-4xl font-normal dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
@@ -178,7 +177,6 @@
             <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><jsIco /></div>
           </div>
         </marquee>
-
         <!-- //marquee icon backend// -->
         <marquee class="marquee2 mt-5 rounded-3xl" behavior="" direction="right" scrollamount="10">
           <div class="flex items-center gap-6 dark:text-gray-200">

@@ -21,22 +21,22 @@ import Zoom from "../assets/ico/zoom.vue";
   <div class="shadow_collor">
     <!-- //Graph Peformance// -->
     <div class="bg_glow_color">
-      <div class="shine_text_light">
-        <h2 class="text-center shine font-bold text-7xl leading-loose lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
+      <div class="ClassName mt-20">
+        <h2 class="text-center shine text-3xl p-2 xl:p-0 font-bold xl:text-7xl leading-loose lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 xl:w-2/4 text-center mx-auto xl:text-lg xl:leading-10 text-sm leading-9 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
+        <p class="p-8 xl:w-2/4 text-center mx-auto xl:text-lg xl:mt-20 xl:leading-10 text-sm leading-9 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
       </div>
     </div>
 
-    <section>
-      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10 shadow-xl dark:bg-[#1c1c2e]">
+    <section class="p-4">
+      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row  mt-40 gap-10 shadow-xl dark:bg-[#1c1c2e]">
         <div class="xl:p-4 w-full sm:w-1/2 rounded-2xl">
           <div class="for_import mt-16 xl:mt-0 p-3 xl:p-0">
             <Graph />
           </div>
         </div>
-        <div class="p-1 w-full xl:mt-0 mt-20 sm:w-1/2">
+        <div class="p-1 desk_hero_graph w-full xl:mt-0 mt-20 sm:w-1/2">
           <p class="text-orange-400 xl:text-base text-sm">Management System</p>
           <h3 class="text-2xl xl:text-5xl font-medium mt-5 leading-relaxed xl:leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
           <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 mt-8 p-2 xl:p-0 leading-9">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
