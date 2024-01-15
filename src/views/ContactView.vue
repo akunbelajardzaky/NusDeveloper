@@ -14,7 +14,7 @@ import pcIco from "../assets/ico/pcIco.vue";
     <h3 class="text-2xl leading-normal xl:text-3xl p-4 xl:p-0 dark:text-gray-200">Kontak kami tim inti <span class="nusantara_text font-bold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Developer</h3>
   </div>
   <div class="flex-row xl:flex items-center gap-10 xl:p-10 mt-7 p-5">
-    <div class="max-w-md mx-auto bg-gray-100 dark:bg-[#1c1c2e] hover:bg-transparent hover:scale-105 duration-100 shadow-md rounded-xl overflow-hidden md:max-w-2xl mb-4">
+    <div class="max-w-md mx-auto bg-gray-100 dark:bg-[#1c1c2e] hover:scale-105 duration-100 shadow-md rounded-xl overflow-hidden md:max-w-2xl mb-4">
       <img class="w-full h-48 object-cover object-center hover:scale-105 duration-100" src="../assets/img/assetpeople/dzaky.jpg" alt="Profile Image" />
 
       <div class="p-6">

@@ -134,7 +134,7 @@ import Zoom from "../assets/ico/zoom.vue";
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/celis.jpg" alt="" />
             <div class="text-center mt-5">
-              <h3 class="text-2xl font-medium">Celis Hasanuddin</h3>
+              <h3 class="text-2xl font-medium">Cellistia Putri</h3>
               <p class="mt-3 text-sm dark:text-gray-400">UI Designer</p>
             </div>
           </div>

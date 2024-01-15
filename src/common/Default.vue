@@ -18,7 +18,7 @@ import "../assets/css/responsive.css";
 </script>
 
 <template>
-  <p class="text-center allert sm:p-1 md:p-2 lg:p-4 xl:text-base dm_sans text-white">
+  <p class="text-center allert sm:p-1 md:p-2 lg:p-3 xl:text-base dm_sans text-white">
     Apa yang kami bagikan dalam web ini <span class="text-blue-700"><a href="#scrollbawah" class="hover:underline"> Scroll kebawah</a></span>
   </p>
 
