@@ -6,14 +6,16 @@ import pcIco from "../assets/ico/pcIco.vue";
 </script>
 
 <template>
-  <div class="ClassName mt-10 xl:mt-24 flex-row xl:flex p-4 xl:p-0 gap-16">
-    <h2 class="text-5xl xl:text-[45px] font-semibold dark:text-gray-200 text-start">Contact <span class="text-[#3333ff] dark:text-[#47ebeb]" style="before:text-shadow: 0px 0px 30px #47ebeb">profile</span></h2>
-    <p class="dark:text-gray-300 xl:w-1/2 xl:text-3xl mt-5 xl:mt-0 text-sm xl:leading-tight leading-8 xl:font-semibold">apabila Kalian semua ingin berhubungan Sosial media, kalian bisa Hubungi Contact yang kami sediakan. <span>sopanlah ketika ingin berbincang</span></p>
-  </div>
-  <div class="ClassName mt-14 xl:mt-32">
+  <section id="header-contact">
+    <div class="ClassName mt-10 xl:mt-24 flex-row xl:flex p-4 xl:p-0 gap-16">
+      <h2 class="text-5xl xl:text-[45px] font-semibold dark:text-gray-200 text-start">Contact <span class="text-[#3333ff] dark:text-[#47ebeb]" style="before:text-shadow: 0px 0px 30px #47ebeb">profile</span></h2>
+      <p class="dark:text-gray-300 xl:w-1/2 xl:text-3xl mt-5 xl:mt-0 text-sm xl:leading-tight leading-6 xl:font-semibold">apabila Kalian semua ingin berhubungan Sosial media, kalian bisa Hubungi Contact yang kami sediakan. <span>sopanlah ketika ingin berbincang</span></p>
+    </div>
+  </section>
+  <div class="ClassName xl:mt-32">
     <h3 class="text-2xl leading-normal xl:text-3xl p-4 xl:p-0 dark:text-gray-200">Kontak kami tim inti <span class="nusantara_text font-bold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Developer</h3>
   </div>
-  <div class="flex-row xl:flex items-center gap-10 xl:p-10 mt-7 p-5">
+  <div class="flex-row xl:flex items-center gap-10 xl:p-10 xl:mt-7 p-5">
     <div class="max-w-md mx-auto bg-gray-100 dark:bg-[#1c1c2e] hover:scale-105 duration-100 shadow-md rounded-xl overflow-hidden md:max-w-2xl mb-4">
       <img class="w-full h-48 object-cover object-center hover:scale-105 duration-100" src="../assets/img/assetpeople/dzaky.jpg" alt="Profile Image" />
 
@@ -322,38 +324,45 @@ import pcIco from "../assets/ico/pcIco.vue";
     </div>
   </section>
 
-  <div class="viewFooter mt-40">
-    <div class="ClassName flex space-x-3 justify-center items-center">
-      <pcIco />
-      <h3 class="text-3xl dark:text-gray-200 xl:text-4xl font-semibold">Nusantara Developer</h3>
-    </div>
-    <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
-    <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
-      <ul class="flex group_cr items-center gap-5 flex-wrap md:mb-0">
-        <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">@copyright</a></li>
-        <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">©Nusantara Developer</a></li>
-        <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">ebdtv4@gmail.com</a></li>
-        <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">mhmdzakyadrhm@gmail.com</a></li>
-      </ul>
-      <div class="flex ico_footer space-x-6 justify-center">
-        <facebookIco />
-        <Insta />
-        <a href="#" class="text-gray-500 hover:text-blue-500">
-          <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"></path>
-          </svg>
-        </a>
-        <GithubIco />
-        <a href="#" class="text-gray-500 hover:text-blue-500">
-          <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-            <path
-              fill-rule="evenodd"
-              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c5.51 0 10-4.48 10-10S17.51 2 12 2zm6.605 4.61a8.502 8.502 0 011.93 5.314c-.281-.054-3.101-.629-5.943-.271-.065-.141-.12-.293-.184-.445a25.416 25.416 0 00-.564-1.236c3.145-1.28 4.577-3.124 4.761-3.362zM12 3.475c2.17 0 4.154.813 5.662 2.148-.152.216-1.443 1.941-4.48 3.08-1.399-2.57-2.95-4.675-3.189-5A8.687 8.687 0 0112 3.475zm-3.633.803a53.896 53.896 0 013.167 4.935c-3.992 1.063-7.517 1.04-7.896 1.04a8.581 8.581 0 014.729-5.975zM3.453 12.01v-.26c.37.01 4.512.065 8.775-1.215.25.477.477.965.694 1.453-.109.033-.228.065-.336.098-4.404 1.42-6.747 5.303-6.942 5.629a8.522 8.522 0 01-2.19-5.705zM12 20.547a8.482 8.482 0 01-5.239-1.8c.152-.315 1.888-3.656 6.703-5.337.022-.01.033-.01.054-.022a35.318 35.318 0 011.823 6.475 8.4 8.4 0 01-3.341.684zm4.761-1.465c-.086-.52-.542-3.015-1.659-6.084 2.679-.423 5.022.271 5.314.369a8.468 8.468 0 01-3.655 5.715z"
-              clip-rule="evenodd"
-            ></path>
-          </svg>
-        </a>
+  <section>
+    <div class="viewFooter mt-10 xl:mt-52 dm_sans">
+      <div class="ClassName flex gap-3 justify-center items-center">
+        <pcIco />
+        <h3 class="text-3xl font-semibold dark:text-gray-200">Nusantara Developer</h3>
       </div>
-    </footer>
-  </div>
+      <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
+      <div class="ClassName flex justify-center mt-10">
+        <button class="p-3 bg-blue-500 text-center md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:shadow-sky-400 rounded-full">
+          <a class="dark:text-gray-200 text-gray-200 text-sm text-center font-medium" href="#header-contact">back to up</a>
+        </button>
+      </div>
+      <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
+        <ul class="flex group_cr items-center gap-5 flex-wrap md:mb-0">
+          <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">@copyright</a></li>
+          <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">©Nusantara Developer</a></li>
+          <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">ebdtv4@gmail.com</a></li>
+          <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline md:mr-6">mhmdzakyadrhm@gmail.com</a></li>
+        </ul>
+        <div class="flex space-x-6 ico_footer justify-center">
+          <facebookIco />
+          <Insta />
+          <a href="#" class="text-gray-500 hover:text-blue-500">
+            <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"></path>
+            </svg>
+          </a>
+          <GithubIco />
+          <a href="#" class="text-gray-500 hover:text-blue-500">
+            <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                fill-rule="evenodd"
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c5.51 0 10-4.48 10-10S17.51 2 12 2zm6.605 4.61a8.502 8.502 0 011.93 5.314c-.281-.054-3.101-.629-5.943-.271-.065-.141-.12-.293-.184-.445a25.416 25.416 0 00-.564-1.236c3.145-1.28 4.577-3.124 4.761-3.362zM12 3.475c2.17 0 4.154.813 5.662 2.148-.152.216-1.443 1.941-4.48 3.08-1.399-2.57-2.95-4.675-3.189-5A8.687 8.687 0 0112 3.475zm-3.633.803a53.896 53.896 0 013.167 4.935c-3.992 1.063-7.517 1.04-7.896 1.04a8.581 8.581 0 014.729-5.975zM3.453 12.01v-.26c.37.01 4.512.065 8.775-1.215.25.477.477.965.694 1.453-.109.033-.228.065-.336.098-4.404 1.42-6.747 5.303-6.942 5.629a8.522 8.522 0 01-2.19-5.705zM12 20.547a8.482 8.482 0 01-5.239-1.8c.152-.315 1.888-3.656 6.703-5.337.022-.01.033-.01.054-.022a35.318 35.318 0 011.823 6.475 8.4 8.4 0 01-3.341.684zm4.761-1.465c-.086-.52-.542-3.015-1.659-6.084 2.679-.423 5.022.271 5.314.369a8.468 8.468 0 01-3.655 5.715z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </a>
+        </div>
+      </footer>
+    </div>
+  </section>
 </template>
