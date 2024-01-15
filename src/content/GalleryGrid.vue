@@ -1,5 +1,5 @@
 <template>
-  <div class="gallery-grid rounded-2xl hover:scale-105 duration-100  hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
+  <div class="gallery-grid rounded-2xl duration-100  hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
     <img src="../assets/img/assetpeople/Keyza.jpg" alt="" />
     <img src="../assets/img/assetpeople/nanda.jpg" alt="" />
     <img src="../assets/img/assetpeople/celis.jpg" alt="" />
@@ -16,7 +16,7 @@ import '../assets/css/responsive.css'
 
 <style>
   .gallery-grid {
-    --size: min(60vmin, 500px);
+    --size: min(95vmin, 500px);
     box-shadow: 0 0 10px #0002, 0 20px 40px -20px #0004;
     width: var(--size);
     height: var(--size);

@@ -65,41 +65,41 @@
   <div class="container bg-for-glowblue mx-auto p-4 mt-3 xl:mt-48 dm_sans">
     <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
     <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-3 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-    <p class=" text-start md:text-center lg:text-center xl:text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
-    <div class="grid grid-cols-1 sm:grid-cols-2 mt-20 md:grid-cols-3 gap-20">
+    <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 mt-20 md:grid-cols-3 gap-5 xl:gap-20">
       <!-- Box 1 -->
-      <div class="p-4 shadow-md text-center dark:text-gray-200 text-lg">
-        <h2 class="text-2xl font-semibold mb-2">😇Supporting</h2>
-        <p class="text-sm leading-8 mt-5">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
+      <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
+        <h2 class="text-2xl xl:font-semibold xl:mb-2">😇Supporting</h2>
+        <p class="text-sm leading-6 xl:leading-8 mt-5">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
       </div>
 
       <!-- Box 2 -->
-      <div class="p-4 shadow-md text-center dark:text-gray-200 text-lg">
-        <h2 class="text-2xl font-semibold mb-2">🧐Member</h2>
-        <p class="text-sm leading-8 mt-5">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
+      <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
+        <h2 class="text-2xl xl:font-semibold xl:mb-2">🧐Member</h2>
+        <p class="text-sm leading-6 xl:leading-8 mt-5">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
       </div>
 
       <!-- Box 3 -->
-      <div class="p-4 shadow-md text-center dark:text-gray-200 text-lg">
-        <h2 class="text-2xl font-semibold mb-2">🤓 Goals</h2>
-        <p class="text-sm leading-8 mt-5">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
+      <div class="p-4 shadow-md xl:text-center dark:text-gray-200 text-lg">
+        <h2 class="text-2xl xl:font-semibold xl:mb-2">🤓 Goals</h2>
+        <p class="text-sm leading-6 xl:leading-8 mt-5">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
       </div>
     </div>
-    <div class="text-center mt-20">
-      <button class="p-4 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:shadow-sky-400 rounded-full">
-        <a class="dark:text-gray-200 text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
+    <div class="text-center mt-20 xl:justify-center xl:flex">
+      <button class="p-4 bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:shadow-sky-400 rounded-full">
+        <a class="dark:text-gray-200 hidden md:block lg:block xl:block text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
       </button>
     </div>
   </div>
 
-  <div class="flex flex-col md:flex-row mt-40 lg:flex-row xl:flex justify-around space-x-2 items-center p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+  <div class="flex flex-col md:flex-row xl:mt-40 lg:flex-row xl:flex justify-around gap-2 items-center p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
     <div class="galleryGrid">
       <GalleryGrid />
     </div>
-    <div class="mt-10 xl:mt-0 md:w-1/2 mb-10 xl:mb-0">
-      <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-center leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From School</h3>
-      <p class="dark:text-gray-200 mt-7 p-2 xl:p-0 xl:text-lg text-center xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
-      <div class="flex flex-wrap justify-center mt-10 xl:justify-start items-center xl:mt-14">
+    <div class="mt-2 xl:mt-0 md:w-1/2 mb-10 xl:mb-0">
+      <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-start leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From School</h3>
+      <p class="dark:text-gray-200 xl:mt-7 text-sm xl:p-0 mt-2  xl:text-lg text-start xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
+      <div class="flex flex-wrap justify-start mt-3 xl:justify-start items-center xl:mt-14">
         <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/dirga.jpg" />
         <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/gantari.png" />
         <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/josha.jpg" />
