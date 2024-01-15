@@ -8,7 +8,7 @@ import pcIco from "../assets/ico/pcIco.vue";
 <template>
   <div class="ClassName mt-10 xl:mt-24 flex-row xl:flex p-4 xl:p-0 gap-16">
     <h2 class="text-5xl xl:text-[45px] font-semibold dark:text-gray-200 text-start">Contact <span class="text-[#3333ff] dark:text-[#47ebeb]" style="before:text-shadow: 0px 0px 30px #47ebeb">profile</span></h2>
-    <p class="dark:text-gray-300 xl:w-1/2 xl:text-3xl mt-5 xl:mt-0 text-sm xl:leading-tight leading-8 xl:font-semibold">apabila Kalian semua ingin berhubungan Sosial media, kalian bisa Hubungi Contact yang kami sediakan. <span>sopanlah ketika ingin berbincang 👄</span></p>
+    <p class="dark:text-gray-300 xl:w-1/2 xl:text-3xl mt-5 xl:mt-0 text-sm xl:leading-tight leading-8 xl:font-semibold">apabila Kalian semua ingin berhubungan Sosial media, kalian bisa Hubungi Contact yang kami sediakan. <span>sopanlah ketika ingin berbincang</span></p>
   </div>
   <div class="ClassName mt-14 xl:mt-32">
     <h3 class="text-2xl leading-normal xl:text-3xl p-4 xl:p-0 dark:text-gray-200">Kontak kami tim inti <span class="nusantara_text font-bold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Developer</h3>

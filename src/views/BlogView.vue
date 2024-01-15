@@ -48,7 +48,7 @@ import locationIco from "../assets/ico/locationIco.vue";
       </div>
     </section>
 
-    <section class="mt-60 ecosystem-content">
+    <section class="mt-60">
       <div class="ClassName xl:p-0 p-5">
         <h3 class="xl:text-4xl text-2xl leading-9 text-start dark:text-gray-200">kami bangga dengan <span class="dark:text-blue-400 font-semibold">integration</span> dan existing <span class="dark:text-sky-400 font-semibold">ecosystem</span>.</h3>
         <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">Berdasarkan Integrasi dan Ecosystem Yang kami pakai ada beberapa hal penting yang kami Perhatikan.</p>
