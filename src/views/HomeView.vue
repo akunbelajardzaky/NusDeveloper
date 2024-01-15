@@ -158,7 +158,7 @@
         <p class="skill text-4xl font-normal dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
     </div>
-    <div class="mt-16 bg_marquee rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
+    <div class="mt-16 p-7 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
       <div>
         <!-- //marquee icon frontend// -->
         <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
@@ -196,10 +196,10 @@
         </marquee>
       </div>
 
-      <div class="dm_sans mt-20 flex items-center desk_gear_emoji justify-between">
+      <div class="dm_sans mt-20 flex items-center text-center xl:text-start justify-between">
         <div>
-          <h2 class="text-3xl dark:text-gray-300 font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
-          <p class="dark:text-gray-300 mt-5 xl:w-3/5 xl:text-lg xl:leading-9 leading-8">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
+          <h2 class="text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
+          <p class="dark:text-gray-300 mt-5 text-sm xl:w-3/5 xl:text-lg xl:leading-9 leading-8 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
         </div>
         <!-- <div class="btn-about flex space-x-3">
           <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:scale-95 duration-150 dark:bg-cyan-500 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
