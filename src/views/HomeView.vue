@@ -58,8 +58,8 @@
   <!-- content feature -->
   <div class="container bg-for-glowblue mx-auto p-4 mt-48 dm_sans">
     <p class="text-center font-medium dark:text-gray-200">ND Indonesia</p>
-    <h3 class="text-center gradient_nusantara dark:text-gray-200 text-6xl mt-3 font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-    <p class="ClassName_desk_nusantara text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto leading-7 p-10 xl:p-0 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
+    <h3 class="text-center text-3xl leading-normal dark:text-gray-200 xl:text-6xl mt-3 font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
+    <p class=" mt-0 text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto p-4 leading-9 xl:p-0 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 mt-20 md:grid-cols-3 gap-20">
       <!-- Box 1 -->
       <div class="p-4 shadow-md text-center dark:text-gray-200 text-lg">
