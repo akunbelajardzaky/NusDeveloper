@@ -1,3 +1,53 @@
+<script setup>
+// //css file import location
+import VSCode from "../components/icons/VSCode.vue";
+import "../assets/css/keyframes.css";
+import "../assets/css/responsive.css";
+import "../assets/css/shineText.css";
+import "../views/style/HomeView.css";
+
+// //import Ico location
+import Profile from "../components/icons/Profile.vue";
+import Clock from "../components/icons/Clock.vue";
+import htmlIco from "../components/icons/html.vue";
+import VueIco from "../components/icons/vueIco.vue";
+import SvelteIco from "../components/icons/svelteICo.vue";
+import ReactIco from "../components/icons/ReactIco.vue";
+import AngularIco from "../components/icons/AngularIco.vue";
+import TailwindIco from "../components/icons/tailwindIco.vue";
+import BootstrapIco from "../components/icons/bootstrapIco.vue";
+import ViteIco from "../components/icons/viteIco.vue";
+import NuxtIco from "../components/icons/nuxtIco.vue";
+import VuetifyIco from "../components/icons/vuetifyIco.vue";
+import PugIco from "../components/icons/pugIco.vue";
+import cssIco from "../components/icons/cssIco.vue";
+import jsIco from "../components/icons/jsIco.vue";
+import nestjsIco from "../components/icons/icoBackend/nestJsIco.vue";
+import expressjsIco from "../components/icons/icoBackend/expressjsIco.vue";
+import rubyIco from "../components/icons/icoBackend/rubyIco.vue";
+import springIco from "../components/icons/icoBackend/springIco.vue";
+import nextjsIco from "../components/icons/icoBackend/nextjsIco.vue";
+import hapijsIco from "../components/icons/icoBackend/hapijsIco.vue";
+import symfonyIco from "../components/icons/icoBackend/symfonyIco.vue";
+import laravelIco from "../components/icons/icoBackend/laravelIco.vue";
+import fastIco from "../components/icons/icoBackend/fastapiIco.vue";
+import djangoIco from "../components/icons/icoBackend/djangoIco.vue";
+import arrow from "../components/icons/arrow.vue";
+import Lightning from "../components/icons/lightning.vue";
+import chat from "../components/icons/chat.vue";
+import Insta from "../assets/ico/insta.vue";
+import GithubIco from "../assets/ico/githubIco.vue";
+import facebookIco from "../assets/ico/facebookIco.vue";
+import pcIco from "..//assets/ico/pcIco.vue";
+
+// //CONTENT import location
+import paralax1 from "../content/paralax1.vue";
+import paralax2 from "../content/paralax2.vue";
+import contentBlur from "../content/contentBlur.vue";
+import GalleryGrid from "../content/GalleryGrid.vue";
+import ImageGlobe from "../components/ImageGlobe.vue";
+</script>
+
 <template>
   <section id="header-home">
     <div class="ClassAll">
@@ -238,8 +288,8 @@
       <div class="ClassName xl:flex xl:items-center gap-16">
         <div class="dm_sans">
           <div class="ClassName text_main_forms text-start">
-            <h3 class="xl:text-4xl text-2xl text-start dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-            <p class="xl:w-3/4 xl:mt-6 mt-4 xl:text-lg text-start xl:leading-9 text-sm dark:text-gray-300 leading-6">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
+            <h3 class="xl:text-4xl text-2xl text-start dark:text-gray-100 font-semibold">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
+            <p class="xl:w-3/4 xl:mt-6 mt-4 xl:text-sm text-start xl:leading-7 text-sm dark:text-gray-300 leading-6">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
           </div>
           <div class="items-center justify-center gap-16 mt-14">
             <div class="ClassName">
@@ -304,53 +354,3 @@
     </section>
   </div>
 </template>
-
-<script setup>
-// //css file import location
-import VSCode from "../components/icons/VSCode.vue";
-import "../assets/css/keyframes.css";
-import "../assets/css/responsive.css";
-import "../assets/css/shineText.css";
-import "../views/style/HomeView.css";
-
-// //import Ico location
-import Profile from "../components/icons/Profile.vue";
-import Clock from "../components/icons/Clock.vue";
-import htmlIco from "../components/icons/html.vue";
-import VueIco from "../components/icons/vueIco.vue";
-import SvelteIco from "../components/icons/svelteICo.vue";
-import ReactIco from "../components/icons/ReactIco.vue";
-import AngularIco from "../components/icons/AngularIco.vue";
-import TailwindIco from "../components/icons/tailwindIco.vue";
-import BootstrapIco from "../components/icons/bootstrapIco.vue";
-import ViteIco from "../components/icons/viteIco.vue";
-import NuxtIco from "../components/icons/nuxtIco.vue";
-import VuetifyIco from "../components/icons/vuetifyIco.vue";
-import PugIco from "../components/icons/pugIco.vue";
-import cssIco from "../components/icons/cssIco.vue";
-import jsIco from "../components/icons/jsIco.vue";
-import nestjsIco from "../components/icons/icoBackend/nestJsIco.vue";
-import expressjsIco from "../components/icons/icoBackend/expressjsIco.vue";
-import rubyIco from "../components/icons/icoBackend/rubyIco.vue";
-import springIco from "../components/icons/icoBackend/springIco.vue";
-import nextjsIco from "../components/icons/icoBackend/nextjsIco.vue";
-import hapijsIco from "../components/icons/icoBackend/hapijsIco.vue";
-import symfonyIco from "../components/icons/icoBackend/symfonyIco.vue";
-import laravelIco from "../components/icons/icoBackend/laravelIco.vue";
-import fastIco from "../components/icons/icoBackend/fastapiIco.vue";
-import djangoIco from "../components/icons/icoBackend/djangoIco.vue";
-import arrow from "../components/icons/arrow.vue";
-import Lightning from "../components/icons/lightning.vue";
-import chat from "../components/icons/chat.vue";
-import Insta from "../assets/ico/insta.vue";
-import GithubIco from "../assets/ico/githubIco.vue";
-import facebookIco from "../assets/ico/facebookIco.vue";
-import pcIco from "..//assets/ico/pcIco.vue";
-
-// //CONTENT import location
-import paralax1 from "../content/paralax1.vue";
-import paralax2 from "../content/paralax2.vue";
-import contentBlur from "../content/contentBlur.vue";
-import GalleryGrid from "../content/GalleryGrid.vue";
-import ImageGlobe from "../components/ImageGlobe.vue";
-</script>
