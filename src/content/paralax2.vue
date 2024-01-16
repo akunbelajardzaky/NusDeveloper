@@ -1,7 +1,7 @@
 <template>
   <div class="dm_sans">
     <div class="parallaxshit">
-      <h1 class="text-2xl font-semibold text-gray-300">Problem Sholving</h1>
+      <h1 class="text-2xl font-bold text-gray-100">Problem Sholving</h1>
     </div>
     <div class="content-text">
       <p class="text-gray-300 max-desk-parallax2 text-start xl:text-lg xl:leading-9 text-sm xl:w-2/3 leading-6">Foto di atas ini ketika Nusantara Developer sedang Menyelesaikan Masalah dari Pihak Pihak yang bertanya. dari segi Frontend mapupun backend.</p>

@@ -87,7 +87,7 @@
     <div class="ClassName">
       <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-3 mt-8 xl:mt-32">
         <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
-        <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-2 xl:mt-1 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
+        <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-100 xl:text-6xl mt-2 xl:mt-1 xl:font-semibold">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
         <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
         <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-6 xl:gap-20">
           <!-- Box 1 -->
@@ -120,7 +120,7 @@
   <section>
     <div class="xl:mt-36 mt-7">
       <div class="p-5 xl:p-0">
-        <h2 class="text-2xl xl:text-4xl font-medium dark:text-gray-200">Kemampuan kami <span class="love">❤️</span> <span class="dark:font-semibold">Nusantara Developer</span></h2>
+        <h2 class="text-2xl xl:text-4xl font-medium dark:text-gray-100">Kemampuan kami <span class="love">❤️</span> <span class="dark:font-semibold">Nusantara Developer</span></h2>
         <p class="xl:mt-6 mt-3 text-sm xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-6">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
       </div>
     </div>
@@ -169,7 +169,7 @@
   <div>
     <div class="xl:mt-32 mt-14 dm_sans">
       <div class="..">
-        <p class="text-[28px] p-3 xl:p-0 xl:text-4xl font-normal leading-8 dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
+        <p class="text-[28px] p-3 xl:p-0 xl:text-4xl font-medium leading-8 dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
     </div>
     <div class="ClassName p-3 xl:p-0">
@@ -211,7 +211,7 @@
         </div>
         <div class="mt-5 xl:mt-20 flex items-center text-start xl:text-start justify-between">
           <div>
-            <h2 class="xl:text-3xl text-2xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
+            <h2 class="xl:text-3xl text-2xl dark:text-gray-100 leading-normal font-bold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
             <p class="dark:text-gray-300 mt-4 text-[13px] xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
           </div>
         </div>

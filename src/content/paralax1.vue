@@ -1,7 +1,7 @@
 <template>
   <div class="dm_sans width">
     <div class="parallax">
-      <h1 class="text-2xl font-semibold text-gray-300">Colaboration Program</h1>
+      <h1 class="text-2xl font-bold text-gray-100">Colaboration Program</h1>
     </div>
     <div class="content-text">
       <p class="text-gray-300 max-desk-parallax1 text-start text-sm xl:text-lg xl:leading-8 leading-6">Foto di atas ini , menunjukan kami dapat Berkolaborasi antar sesama Programmer dan kami sangat Solid.</p>
