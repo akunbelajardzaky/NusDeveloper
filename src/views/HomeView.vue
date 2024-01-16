@@ -63,39 +63,6 @@
     </div>
   </section>
 
-  <!-- content feature -->
-  <div class="ClassName">
-    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-3 mt-8 xl:mt-32">
-      <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
-      <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-2 xl:mt-1 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-      <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
-      <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-6 xl:gap-20">
-        <!-- Box 1 -->
-        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-          <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">😇Supporting</h2>
-          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
-        </div>
-
-        <!-- Box 2 -->
-        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-          <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🧐Member</h2>
-          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
-        </div>
-
-        <!-- Box 3 -->
-        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-          <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🤓Goals</h2>
-          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Tujuan website Nusantara Developer, untuk mempermudah bibit unggul programmer untuk belajar</p>
-        </div>
-      </div>
-      <div class="text-center hidden md:block lg:flex xl:flex mt-14 xl:justify-center">
-        <button class="p-4 bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md dark:hover:shadow-sky-400 rounded-full">
-          <a class="dark:text-gray-200 hidden md:block lg:block xl:block text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
-        </button>
-      </div>
-    </div>
-  </div>
-
   <div class="ClassName p-3 xl:p-0">
     <div class="flex flex-col md:flex-row xl:mt-32 mt-5 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-8 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
       <div class="galleryGrid xl:p-7 p-0">
@@ -114,6 +81,41 @@
       </div>
     </div>
   </div>
+
+  <!-- content feature -->
+  <section>
+    <div class="ClassName">
+      <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-3 mt-8 xl:mt-32">
+        <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
+        <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-2 xl:mt-1 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
+        <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-6 xl:gap-20">
+          <!-- Box 1 -->
+          <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">😇Supporting</h2>
+            <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
+          </div>
+
+          <!-- Box 2 -->
+          <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🧐Member</h2>
+            <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
+          </div>
+
+          <!-- Box 3 -->
+          <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🤓Goals</h2>
+            <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Tujuan website Nusantara Developer, untuk mempermudah bibit unggul programmer untuk belajar</p>
+          </div>
+        </div>
+        <div class="text-center hidden md:block lg:flex xl:flex mt-14 xl:justify-center">
+          <button class="p-4 bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md dark:hover:shadow-sky-400 rounded-full">
+            <a class="dark:text-gray-200 hidden md:block lg:block xl:block text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <section>
     <div class="xl:mt-36 mt-7">
