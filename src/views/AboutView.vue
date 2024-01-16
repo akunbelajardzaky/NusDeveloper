@@ -21,8 +21,8 @@
         </div>
         <div class="p-3 desk_hero_graph w-full xl:mt-0 sm:w-1/2">
           <p class="text-orange-400 xl:text-base text-sm">Management System</p>
-          <h3 class="text-2xl xl:text-5xl font-medium mt-5 leading-tight xl:leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
-          <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 xl:mt-8 mt-3 xl:p-0 leading-6">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
+          <h3 class="text-2xl xl:text-5xl font-medium mt-4 leading-tight xl:leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
+          <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 xl:mt-8 mt-4 xl:p-0 leading-6">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
           <p class="dark:text-gray-300 xl:mt-9 mt-3 text-sm xl:text-base leading-8">Rating Kami Untuk kalian Semua</p>
           <div class="items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-6 xl:mt-16">
             <a href="#" class="bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 mb-8 items-center text-center xl:mb-0 dark:text-gray-200 xl:w-60 text-white duration-100 p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
@@ -36,7 +36,7 @@
         <div class="flex flex-wrap items-center justify-between">
           <div class="w-full md:w-1/2 p-4">
             <div class="p-1 rounded center_txt">
-              <h4 class="text-2xl xl:text-3xl xl:leading-snug text-start font-medium xl:w-1/1 leading-tight">Kami Berada di keempat Platfrom yang populer di Dunia ini. dan Kami Tersedia</h4>
+              <h4 class="text-xl xl:text-3xl xl:leading-snug text-start font-medium xl:w-1/1 leading-normal">Kami Berada di keempat Platfrom yang populer di Dunia ini. dan Kami Tersedia</h4>
               <p class="xl:mt-10 mt-4 dark:text-gray-300 text-start text-sm xl:text-base xl:leading-8 leading-6">dengan keempat platform yang kami buat, agar mempermudah Semua Atau Pendatang baru untuk Saling Berkomunikasi ataupun Berkosntribusi dengan kami. Kami sangat menghargai kedatangan Kalian Semua.</p>
             </div>
           </div>
@@ -82,7 +82,7 @@
 
     <section>
       <div class="other_gallery_card mt-14 xl:mt-44">
-        <h2 class="text-3xl text-center font-medium">Tim Utama Nusantara Developer</h2>
+        <h2 class="text-3xl text-center leading-10 font-medium">Tim Utama Nusantara Developer</h2>
         <div class="flex flex-wrap xl:gap-10 mx-auto justify-center mt-10 rounded-3xl">
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/dzaky.jpg" alt="" />
@@ -147,9 +147,9 @@
     </section>
 
     <div class="ClassName maintxt_for_dc flex items-center justify-between mt-10 xl:mt-[500px] p-10">
-      <h3 class="text-3xl leading-10 xl:text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
+      <h3 class="text-3xl text-start leading-10 xl:text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <a href="https://discord.gg/gqhSqaDm" target="_blank">
-        <div class="ClassName flex discord_and_button items-center p-3 border dark:border-gray-800 rounded-full dark:bg-gray-800 hover:shadow-2xl duration-100 hover:scale-95">
+        <div class="ClassName xl:flex hidden md:block lg:block  items-center p-3 border mt-6 xl:mt-0 dark:border-gray-800 rounded-full dark:bg-gray-800 hover:shadow-2xl duration-100 hover:scale-95">
           <discordIco />
         </div>
       </a>
@@ -192,7 +192,7 @@
       <div class="container px-5 mx-auto">
         <div class="flex flex-col text-start w-full mb-20">
           <h1 class="xl:text-4xl text-3xl font-medium mb-4 dark:text-gray-200">Our Discord Member</h1>
-          <p class="lg:w-2/6 dark:text-gray-300 leading-8 xl:text-lg xl:leading-9 text-base">Kami Menampilkan beberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
+          <p class="lg:w-2/6 dark:text-gray-300 leading-7 xl:text-lg xl:leading-9 text-base">Kami Menampilkan beberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">

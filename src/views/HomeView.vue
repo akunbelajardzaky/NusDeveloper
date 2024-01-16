@@ -98,7 +98,7 @@
 
   <div class="ClassName p-3 xl:p-0">
     <div class="flex flex-col md:flex-row xl:mt-40 mt-5 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
-      <div class="galleryGrid">
+      <div class="galleryGrid xl:p-7 p-0h">
         <GalleryGrid />
       </div>
       <div class="mt-2 xl:mt-0 md:w-1/2 mb-5 p-3 xl:p-0 xl:mb-0">
@@ -232,7 +232,7 @@
       <contentBlur />
     </div>
 
-    <section class="xl:mt-52 mt-10 forms">
+    <section class="xl:mt-32 mt-10 forms">
       <div class="ClassName xl:flex xl:items-center gap-16">
         <div class="dm_sans">
           <div class="ClassName text_main_forms text-start">
@@ -260,7 +260,7 @@
     </section>
 
     <section>
-      <div class="viewFooter mt-10 xl:mt-52 dm_sans">
+      <div class="viewFooter mt-10 xl:mt-52">
         <div class="ClassName flex gap-3 justify-center items-center">
           <pcIco />
           <h3 class="text-3xl font-semibold dark:text-gray-200">Nusantara Developer</h3>
