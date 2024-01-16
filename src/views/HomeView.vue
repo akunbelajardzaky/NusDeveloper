@@ -5,7 +5,7 @@
         <div>
           <p class="sm:text-lg daily hidden md:block lg:block xl:block p-3 text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-medium lg:w-11/12">Daily Us Collaboration</p>
         </div>
-        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-6xl text-start p-3 leading-[53px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
+        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-6xl text-start p-3 leading-[53px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-[110px] dark:text-white animate-spin-letters">
           We Are <br class="lg:block hidden" />
           <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
         </h1>
@@ -20,7 +20,7 @@
             </div>
 
             <div class="ClassName hidden md:block lg:block xl:block">
-              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-7 md:flex md:justify-center lg:justify-start">
+              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-12 md:flex md:justify-center lg:justify-start">
                 <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
                   <div class="flex justify-center space-x-3">
                     <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
@@ -41,7 +41,7 @@
                 </a>
               </div>
             </div>
-            <div class="text-start text-sm dark:text-gray-300 hidden md:block lg:block xl:block mt-2 p-3 xl:mt-7">
+            <div class="text-start text-sm dark:text-gray-300 hidden md:block lg:block xl:block mt-2 p-3 xl:mt-9">
               🔥🌟
               <span>Other integrations :</span>
               <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
@@ -145,7 +145,7 @@
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-3">
         <div class="border3 xl:h-80 rounded-3xl flex items-center justify-center">
           <div class="bord xl:h-80 border hover:scale-105 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30 dark:bg-[#1c1c2e]">
-            <Lightning />  
+            <Lightning />
             <h3 class="text-2xl font-semibold xl:mt-7">Faster</h3>
             <p class="xl:mt-5 dark:text-gray-300 text-sm xl:text-base xl:leading-8 leading-6">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
           </div>
