@@ -65,7 +65,7 @@
 
   <!-- content feature -->
   <div class="ClassName">
-    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent mx-auto p-4 mt-8 xl:mt-48 dm_sans">
+    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl dark:bg-[#1c1c2e] mx-auto p-4 mt-8 xl:mt-48">
       <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
       <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-3 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
       <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
@@ -88,7 +88,7 @@
           <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 xl:mt-5 mt-3">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
         </div>
       </div>
-      <div class="text-center mt-14 xl:justify-center xl:flex">
+      <div class="text-center hidden md:block lg:flex xl:flex mt-14 xl:justify-center">
         <button class="p-4 bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md dark:hover:shadow-sky-400 rounded-full">
           <a class="dark:text-gray-200 hidden md:block lg:block xl:block text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
         </button>
@@ -97,7 +97,7 @@
   </div>
 
   <div class="ClassName p-3 xl:p-0">
-    <div class="flex flex-col md:flex-row xl:mt-40 lg:flex-row xl:flex justify-around gap-2 items-center p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+    <div class="flex flex-col md:flex-row xl:mt-40 mt-10 lg:flex-row xl:flex justify-around gap-2 items-center p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
       <div class="galleryGrid">
         <GalleryGrid />
       </div>
@@ -116,9 +116,9 @@
   </div>
 
   <section>
-    <div class="xl:mt-36 mt-4">
+    <div class="xl:mt-36 mt-7">
       <div class="p-5 xl:p-0">
-        <h2 class="text-3xl xl:text-4xl text_love font-medium dark:text-gray-200">Kemampuan kami <span class="love">❤️</span> <span class="dark:font-semibold">Nusantara Developer</span></h2>
+        <h2 class="text-2xl xl:text-4xl font-medium dark:text-gray-200">Kemampuan kami <span class="love">❤️</span> <span class="dark:font-semibold">Nusantara Developer</span></h2>
         <p class="xl:mt-6 mt-3 text-sm xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-6">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
       </div>
     </div>
@@ -171,7 +171,7 @@
       </div>
     </div>
     <div class="ClassName p-3 xl:p-0">
-      <div class="mt-3 xl:mt-12 p-3 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
+      <div class="mt-3 xl:mt-12 p-4 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
         <div>
           <!-- //marquee icon frontend// -->
           <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
@@ -207,10 +207,10 @@
             </div>
           </marquee>
         </div>
-        <div class="mt-5 xl:mt-20 flex items-center text-center xl:text-start justify-between">
+        <div class="mt-5 xl:mt-20 flex items-center text-start xl:text-start justify-between">
           <div>
-            <h2 class="xl:text-3xl text-3xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
-            <p class="dark:text-gray-300 mt-5 text-sm xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
+            <h2 class="xl:text-3xl text-2xl dark:text-gray-300 leading-normal font-semibold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
+            <p class="dark:text-gray-300 mt-4 text-[13px] xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
           </div>
         </div>
       </div>
