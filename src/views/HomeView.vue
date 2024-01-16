@@ -65,25 +65,25 @@
 
   <!-- content feature -->
   <div class="ClassName">
-    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-4 mt-8 xl:mt-48">
+    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-3 mt-8 xl:mt-48">
       <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
       <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-2 xl:mt-1 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
       <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
       <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-6 xl:gap-20">
         <!-- Box 1 -->
-        <div class="xl:p-4 dark:bg-[#1c1c2e] xl:bg-transparent p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
           <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">😇Supporting</h2>
           <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
         </div>
 
         <!-- Box 2 -->
-        <div class="xl:p-4 dark:bg-[#1c1c2e] xl:bg-transparent p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
           <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🧐Member</h2>
           <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
         </div>
 
         <!-- Box 3 -->
-        <div class="xl:p-4 dark:bg-[#1c1c2e] xl:bg-transparent p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
           <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🤓Goals</h2>
           <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Tujuan website Nusantara Developer, untuk mempermudah bibit unggul programmer untuk belajar</p>
         </div>
@@ -97,11 +97,11 @@
   </div>
 
   <div class="ClassName p-3 xl:p-0">
-    <div class="flex flex-col md:flex-row xl:mt-40 mt-10 lg:flex-row xl:flex justify-around gap-2 items-center p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+    <div class="flex flex-col md:flex-row xl:mt-40 mt-5 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
       <div class="galleryGrid">
         <GalleryGrid />
       </div>
-      <div class="mt-2 xl:mt-0 md:w-1/2 mb-5 xl:mb-0">
+      <div class="mt-2 xl:mt-0 md:w-1/2 mb-5 p-3 xl:p-0 xl:mb-0">
         <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-start leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From School</h3>
         <p class="dark:text-gray-300 xl:mt-7 text-sm xl:p-0 mt-2 xl:text-lg text-start xl:text-start leading-6 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
         <div class="flex flex-wrap justify-start mt-3 xl:justify-start items-center xl:mt-14">
@@ -145,7 +145,7 @@
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-3">
         <div class="border3 xl:h-80 rounded-3xl flex items-center justify-center">
           <div class="bord xl:h-80 border hover:scale-105 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30 dark:bg-[#1c1c2e]">
-            <Lightning />
+            <Lightning />  
             <h3 class="text-2xl font-semibold xl:mt-7">Faster</h3>
             <p class="xl:mt-5 dark:text-gray-300 text-sm xl:text-base xl:leading-8 leading-6">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
           </div>
