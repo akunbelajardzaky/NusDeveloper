@@ -12,7 +12,7 @@
 
         <div class="md:flex lg:flex items-center justify-center">
           <div class="xl:mt-5 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-            <p class="text-start xl:mt-0 p-3 xl:p-0 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
+            <p class="text-start xl:mt-0 p-3 xl:p-2 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
             <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
               <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-400 rounded-full">
                 <a class="dark:text-gray-200 text-gray-200 text-[13px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
@@ -65,7 +65,7 @@
 
   <!-- content feature -->
   <div class="ClassName">
-    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-3 mt-8 xl:mt-48">
+    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-3 mt-8 xl:mt-32">
       <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
       <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-2 xl:mt-1 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
       <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
@@ -97,8 +97,8 @@
   </div>
 
   <div class="ClassName p-3 xl:p-0">
-    <div class="flex flex-col md:flex-row xl:mt-40 mt-5 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-4 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
-      <div class="galleryGrid xl:p-7 p-0h">
+    <div class="flex flex-col md:flex-row xl:mt-32 mt-5 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-8 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+      <div class="galleryGrid xl:p-7 p-0">
         <GalleryGrid />
       </div>
       <div class="mt-2 xl:mt-0 md:w-1/2 mb-5 p-3 xl:p-0 xl:mb-0">
@@ -165,13 +165,13 @@
   </section>
 
   <div>
-    <div class="xl:mt-40 mt-14 dm_sans">
+    <div class="xl:mt-32 mt-14 dm_sans">
       <div class="..">
         <p class="text-[28px] p-3 xl:p-0 xl:text-4xl font-normal leading-8 dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
     </div>
     <div class="ClassName p-3 xl:p-0">
-      <div class="mt-3 xl:mt-12 p-4 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
+      <div class="mt-3 xl:mt-16 p-4 xl:p-10 rounded-3xl shadow-xl dark:bg-[#1c1c2e]">
         <div>
           <!-- //marquee icon frontend// -->
           <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
@@ -228,7 +228,7 @@
       </div>
     </div>
 
-    <div class="content_image_blur mt-10 xl:mt-36">
+    <div class="content_image_blur mt-10 xl:mt-28">
       <contentBlur />
     </div>
 
