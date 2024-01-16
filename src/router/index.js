@@ -28,7 +28,12 @@ const router = createRouter({
       path: '/blog',
       nam: 'blog',
       component: () => import('../views/BlogView.vue')
-    }
+    },
+    // {
+    //   path: '/p',
+    //   nam: 'p',
+    //   component: () => import('../views/p.vue')
+    // }
   ]
 })
 

@@ -22,7 +22,7 @@ import "../assets/css/responsive.css";
     Apa yang kami bagikan dalam web ini <span class="text-blue-700"><a href="#scrollbawah" class="hover:underline"> Scroll kebawah</a></span>
   </p>
 
-  <div class="contain_max max-w-[1350px] mx-auto">
+  <div class="contain_max max-w-[1450px] mx-auto">
     <nav class="p-5 pt-7">
       <div class="container mx-auto items-center">
         <div class="flex wrapperrast justify-between items-center">
@@ -52,6 +52,7 @@ import "../assets/css/responsive.css";
               <RouterLink to="/services"><a href="#" class="block dark:text-gray-300 py-2 hover:text-blue-400 duration-100">Services</a></RouterLink>
               <RouterLink to="/contact"><a href="#" class="block dark:text-gray-300 py-2 hover:text-blue-400 duration-100">Contact</a></RouterLink>
               <RouterLink to="/blog"><a href="#" class="block dark:text-gray-300 py-2 hover:text-blue-400 duration-100">Info</a></RouterLink>
+              <!-- <RouterLink to="/p"><a href="#" class="block dark:text-gray-300 py-2">p</a></RouterLink> -->
             </div>
           </div>
 

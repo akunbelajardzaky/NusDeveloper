@@ -1,22 +1,3 @@
-<script setup>
-import Graph from "../components/Graph.vue";
-import "../assets/css/keyframes.css";
-import "../assets/css/responsive.css";
-import "../assets/css/shineText.css";
-import "../views/style/AboutView.css";
-
-// import Ico
-import GithubIco from "../assets/ico/githubIco.vue";
-import Github from "../assets/ico/github.vue";
-import facebookIco from "../assets/ico/facebookIco.vue";
-import Insta from "../assets/ico/insta.vue";
-import pcIco from "../assets/ico/pcIco.vue";
-import discordIco from "../assets/ico/discordIco.vue";
-import Discord from "../assets/ico/discord.vue";
-import Reddit from "../assets/ico/reddit.vue";
-import Zoom from "../assets/ico/zoom.vue";
-</script>
-
 <template>
   <div class="shadow_collor">
     <!-- //Graph Peformance// -->
@@ -26,13 +7,13 @@ import Zoom from "../assets/ico/zoom.vue";
           <h2 class="xl:text-center shine text-4xl p-3 xl:p-0 font-bold xl:text-7xl leading-normal lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
         </div>
         <div class="ClassName">
-          <p class="p-4 xl:w-2/4 text-start xl:text-center mx-auto xl:text-lg xl:mt-20 xl:leading-10 text-sm leading-6 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
+          <p class="p-4 xl:w-2/4 text-start xl:text-center mx-auto xl:text-lg xl:mt-10 xl:leading-10 text-sm leading-6 text-gray-700 dark:text-gray-300">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
         </div>
       </div>
     </section>
 
     <section class="p-4">
-      <div class="flex flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row xl:mt-40 gap-10 shadow-xl dark:bg-[#1c1c2e]">
+      <div class="flex flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row xl:mt-32 gap-10 shadow-xl dark:bg-[#1c1c2e]">
         <div class="xl:p-4 w-full sm:w-1/2 rounded-2xl">
           <div class="for_import xl:mt-16 p-3 xl:p-0">
             <Graph />
@@ -44,7 +25,7 @@ import Zoom from "../assets/ico/zoom.vue";
           <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 xl:mt-8 mt-3 xl:p-0 leading-6">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
           <p class="dark:text-gray-300 xl:mt-9 mt-3 text-sm xl:text-base leading-8">Rating Kami Untuk kalian Semua</p>
           <div class="items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-6 xl:mt-16">
-            <a href="#" class="bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 mb-8  items-center text-center xl:mb-0 dark:text-gray-200 xl:w-60 text-white duration-100 p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
+            <a href="#" class="bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 mb-8 items-center text-center xl:mb-0 dark:text-gray-200 xl:w-60 text-white duration-100 p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
           </div>
         </div>
       </div>
@@ -165,7 +146,7 @@ import Zoom from "../assets/ico/zoom.vue";
       </div>
     </section>
 
-    <div class="ClassName maintxt_for_dc flex items-center justify-between mt-10 xl:mt-[550px] p-10">
+    <div class="ClassName maintxt_for_dc flex items-center justify-between mt-10 xl:mt-[500px] p-10">
       <h3 class="text-3xl leading-10 xl:text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <a href="https://discord.gg/gqhSqaDm" target="_blank">
         <div class="ClassName flex discord_and_button items-center p-3 border dark:border-gray-800 rounded-full dark:bg-gray-800 hover:shadow-2xl duration-100 hover:scale-95">
@@ -369,3 +350,22 @@ import Zoom from "../assets/ico/zoom.vue";
     </section>
   </div>
 </template>
+
+<script setup>
+import Graph from "../components/Graph.vue";
+import "../assets/css/keyframes.css";
+import "../assets/css/responsive.css";
+import "../assets/css/shineText.css";
+import "../views/style/AboutView.css";
+
+// import Ico
+import GithubIco from "../assets/ico/githubIco.vue";
+import Github from "../assets/ico/github.vue";
+import facebookIco from "../assets/ico/facebookIco.vue";
+import Insta from "../assets/ico/insta.vue";
+import pcIco from "../assets/ico/pcIco.vue";
+import discordIco from "../assets/ico/discordIco.vue";
+import Discord from "../assets/ico/discord.vue";
+import Reddit from "../assets/ico/reddit.vue";
+import Zoom from "../assets/ico/zoom.vue";
+</script>
