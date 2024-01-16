@@ -18,7 +18,7 @@
           </div>
           <div  class="border dark:bg-[#1c1c2e] border-gray-300 dark:border-gray-800 hover-scale-flexbox rounded-3xl shadow p-6 hover:border-sky-400 hover:shadow-lg hover:shadow-sky-600/20 dark:hover:border-sky-300/30">
             <h3 class="text-5xl dark:text-gray-200 font-bold mb-2">200+</h3>
-            <p class="dark:text-gray-200 text-sm mt-5">Pengguna akhir menggunakan aplikasi yang dibangun bersama komunitas Nusantara Developer</p>
+            <p class="dark:text-gray-200 text-sm mt-5">Pengguna akhir menggunakan aplikasi yang dibangun komunitas Nusantara Developer</p>
           </div>
           <div  class="border dark:bg-[#1c1c2e] border-gray-300 dark:border-gray-800 hover-scale-flexbox rounded-3xl shadow p-6 hover:border-sky-400 hover:shadow-lg hover:shadow-sky-600/20 dark:hover:border-sky-300/30">
             <h3 class="text-5xl dark:text-gray-200 font-bold mb-2">Y</h3>

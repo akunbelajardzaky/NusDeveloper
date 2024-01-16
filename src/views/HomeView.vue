@@ -65,27 +65,27 @@
 
   <!-- content feature -->
   <div class="ClassName">
-    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl dark:bg-[#1c1c2e] mx-auto p-4 mt-8 xl:mt-48">
+    <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-4 mt-8 xl:mt-48">
       <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
-      <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-3 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
+      <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-200 xl:text-6xl mt-2 xl:mt-1 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
       <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
-      <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-10 xl:gap-20">
+      <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-6 xl:gap-20">
         <!-- Box 1 -->
-        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-          <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">😇Supporting</h2>
-          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 xl:mt-5 mt-3">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
+        <div class="xl:p-4 dark:bg-[#1c1c2e] xl:bg-transparent p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+          <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">😇Supporting</h2>
+          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
         </div>
 
         <!-- Box 2 -->
-        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-          <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">🧐Member</h2>
-          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 xl:mt-5 mt-3">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
+        <div class="xl:p-4 dark:bg-[#1c1c2e] xl:bg-transparent p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+          <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🧐Member</h2>
+          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
         </div>
 
         <!-- Box 3 -->
-        <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-          <h2 class="xl:text-2xl xl:font-semibold xl:mb-2">🤓Goals</h2>
-          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 xl:mt-5 mt-3">Tujuan website Nusantara Developer di buat, untuk mempermudah para bibit unggul programmer untuk belajar</p>
+        <div class="xl:p-4 dark:bg-[#1c1c2e] xl:bg-transparent p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
+          <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🤓Goals</h2>
+          <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Tujuan website Nusantara Developer, untuk mempermudah bibit unggul programmer untuk belajar</p>
         </div>
       </div>
       <div class="text-center hidden md:block lg:flex xl:flex mt-14 xl:justify-center">
@@ -218,7 +218,7 @@
   </div>
 
   <!-- //content profile// -->
-  <div class="mt-5">
+  <div class="xl:mt-5">
     <div class="flex flex_responsive_parallax justify-center">
       <div class="p-4 m-2 parallax1 rounded-3xl sm:w-1/2 shadow-xl dark:bg-[#1c1c2e]">
         <paralax1 />
