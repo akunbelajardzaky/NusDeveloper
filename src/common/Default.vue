@@ -22,7 +22,7 @@ import "../assets/css/responsive.css";
     Apa yang kami bagikan dalam web ini <span class="text-blue-700"><a href="#scrollbawah" class="hover:underline"> Scroll kebawah</a></span>
   </p>
 
-  <div class="contain_max max-w-[1450px] mx-auto">
+  <div class="contain_max max-w-[1350px] mx-auto">
     <nav class="p-5 pt-7">
       <div class="container mx-auto items-center">
         <div class="flex wrapperrast justify-between items-center">

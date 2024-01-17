@@ -143,25 +143,34 @@ import ImageGlobe from "../components/ImageGlobe.vue";
         <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-6 xl:gap-20">
           <!-- Box 1 -->
           <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">😇Supporting</h2>
+            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">
+              <span style="text-shadow: 0px 0px 30px yellow">😇</span>
+              Supporting
+            </h2>
             <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Website Nusantara Developer telah di support oleh sekolah SMK MUHAMMADIYAH 1 YOGYAKARTA</p>
           </div>
 
           <!-- Box 2 -->
           <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🧐Member</h2>
+            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">
+              <span style="text-shadow: 0px 0px 30px yellow">🧐</span>
+              Member
+            </h2>
             <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Rata rata member kami dominan adalah teman sekolah, tetapi orang publik juga bisa Berkonstribusi</p>
           </div>
 
           <!-- Box 3 -->
           <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
-            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">🤓Goals</h2>
+            <h2 class="xl:text-2xl font-medium xl:font-semibold xl:mb-2">
+              <span style="text-shadow: 0px 0px 30px yellow">🤓</span>
+              Goals
+            </h2>
             <p class="text-sm leading-6 xl:leading-7 dark:text-gray-300 mb-2 xl:mb-0 xl:mt-5 mt-2">Tujuan website Nusantara Developer, untuk mempermudah bibit unggul programmer untuk belajar</p>
           </div>
         </div>
         <div class="text-center hidden md:block lg:flex xl:flex mt-14 xl:justify-center">
-          <button class="p-4 bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md dark:hover:shadow-sky-400 rounded-full">
-            <a class="dark:text-gray-200 hidden md:block lg:block xl:block text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
+          <button class="p-4 bg-[#51e6e6] hover:bg-[#4effff] duration-300 hidden md:block lg:block xl:block hover:scale-95 hover:shadow-md dark:hover:shadow-sky-300 rounded-full">
+            <a class="dark:text-black hidden md:block lg:block xl:block text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
           </button>
         </div>
       </div>
@@ -320,7 +329,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
         </div>
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
         <div class="ClassName flex justify-center mt-10">
-          <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 text-center md:block lg:block xl:block  hover:scale-95 hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
+          <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 text-center md:block lg:block xl:block hover:scale-95 hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
             <a class="dark:text-black text-gray-200 text-sm text-center font-medium" href="#header-home">back to up</a>
           </button>
         </div>
