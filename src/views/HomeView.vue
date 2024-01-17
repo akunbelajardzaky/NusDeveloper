@@ -52,20 +52,21 @@ import ImageGlobe from "../components/ImageGlobe.vue";
   <section id="header-home">
     <div class="ClassAll">
       <div class="relative xl:container mt-10 xl:mt-0 mx-auto">
-        <div>
-          <p class="sm:text-lg daily hidden md:block lg:block xl:block p-3 text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-medium lg:w-11/12">Daily Us Collaboration</p>
+        <div class="blur-md xl:blur-none p-5 pt-0 xl:p-0 xl:pt-0 flex items-center">
+          <p class="ClassName md:hidden lg:hidden xl:hidden" style="text-shadow: 0px 0px 30px yellow">💡</p>
+          <p class="text-lg p-3 font-semibold text-orange-400 xl:blur-none xl:text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start xl:dark:text-orange-400 xl:font-medium lg:w-11/12">Daily Us Collaboration</p>
         </div>
-        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-6xl text-start p-3 leading-[53px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-[110px] dark:text-white animate-spin-letters">
+        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-5xl text-start p-3 leading-[45px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-[110px] dark:text-white animate-spin-letters">
           We Are <br class="lg:block hidden" />
           <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
         </h1>
 
         <div class="md:flex lg:flex items-center justify-center">
           <div class="xl:mt-5 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-            <p class="text-start xl:mt-0 p-3 xl:p-2 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
+            <p class="text-start xl:mt-0 p-3 pt-1 xl:p-2 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
             <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
-              <button class="p-3 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-400 rounded-full">
-                <a class="dark:text-gray-200 text-gray-200 text-[13px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
+              <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
+                <a class="dark:text-black dark:font-bold text-gray-200 text-[16px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join Community</a>
               </button>
             </div>
 
@@ -113,8 +114,8 @@ import ImageGlobe from "../components/ImageGlobe.vue";
     </div>
   </section>
 
-  <div class="ClassName p-3 xl:p-0">
-    <div class="flex flex-col md:flex-row xl:mt-32 mt-5 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-8 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+  <div class="ClassName xl:p-0">
+    <div class="flex flex-col md:flex-row xl:mt-32 mt-9 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-8 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
       <div class="galleryGrid xl:p-7 p-0">
         <GalleryGrid />
       </div>
@@ -168,7 +169,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
   </section>
 
   <section>
-    <div class="xl:mt-36 mt-7">
+    <div class="xl:mt-44 mt-7">
       <div class="p-5 xl:p-0">
         <h2 class="text-2xl xl:text-4xl font-medium dark:text-gray-100">Kemampuan kami <span class="love">❤️</span> <span class="dark:font-semibold">Nusantara Developer</span></h2>
         <p class="xl:mt-6 mt-3 text-sm xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-6">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
@@ -319,8 +320,8 @@ import ImageGlobe from "../components/ImageGlobe.vue";
         </div>
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
         <div class="ClassName flex justify-center mt-10">
-          <button class="p-3 bg-blue-500 text-center md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:dark:shadow-sky-400 rounded-full">
-            <a class="dark:text-gray-200 text-gray-200 text-sm text-center font-medium" href="#header-home">back to up</a>
+          <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 text-center md:block lg:block xl:block  hover:scale-95 hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
+            <a class="dark:text-black text-gray-200 text-sm text-center font-medium" href="#header-home">back to up</a>
           </button>
         </div>
         <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
