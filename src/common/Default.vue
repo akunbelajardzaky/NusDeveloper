@@ -56,12 +56,12 @@ import "../assets/css/responsive.css";
             </div>
           </div>
 
-          <div class="icoNav text-sm space-x-5">
+          <!-- <div class="icoNav text-sm space-x-5">
             <a href="#" target="_blank" class="dark:text-gray-200 hover:text-blue-400 duration-150">Sign In</a>
-            <button class="bg-blue-500 p-3 rounded-full w-32 hover:shadow-sky-400 hover:shadow-md hover:scale-95 duration-100 hover:bg-blue-600">
-              <a href="#" target="_blank" class="text-gray-200">Regrister</a>
+            <button class="bg-[#51e6e6] hover:bg-[#4effff] duration-300 p-3 rounded-full w-32 hover:shadow-sky-300 hover:shadow-md hover:scale-95">
+              <a href="#" target="_blank" class="text-black">Regrister</a>
             </button>
-          </div>
+          </div> -->
         </div>
       </div>
       <div v-if="isOpen" class="container mx-auto md:hidden mt-4">

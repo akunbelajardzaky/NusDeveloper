@@ -564,15 +564,15 @@ import locationIco from "../assets/ico/locationIco.vue";
     </div>
 
     <section>
-      <div class="viewFooter mt-10 xl:mt-52 dm_sans">
+      <div class="viewFooter mt-10 xl:mt-52">
         <div class="ClassName flex gap-3 justify-center items-center">
           <pcIco />
           <h3 class="text-3xl font-semibold dark:text-gray-200">Nusantara Developer</h3>
         </div>
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
         <div class="ClassName flex justify-center mt-10">
-          <button class="p-3 bg-blue-500 text-center md:block lg:block xl:block hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:shadow-sky-400 rounded-full">
-            <a class="dark:text-gray-200 text-gray-200 text-sm text-center font-medium" href="#backToUp">back to up</a>
+          <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 text-center md:block lg:block xl:block hover:scale-95 hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
+            <a class="dark:text-black text-gray-200 text-sm text-center font-medium" href="#backToUp">back to up</a>
           </button>
         </div>
         <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
