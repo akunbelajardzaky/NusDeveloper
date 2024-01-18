@@ -56,7 +56,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
           <p class="ClassName md:hidden lg:hidden xl:hidden" style="text-shadow: 0px 0px 30px yellow">💡</p>
           <p class="text-lg p-3 font-semibold text-orange-400 xl:blur-none xl:text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start xl:dark:text-orange-400 xl:font-medium lg:w-11/12">Daily Us Collaboration</p>
         </div>
-        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-5xl text-start p-3 leading-[45px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-[110px] dark:text-white animate-spin-letters">
+        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-5xl text-start p-3 leading-[45px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-[95px] dark:text-white animate-spin-letters">
           We Are <br class="lg:block hidden" />
           <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
         </h1>
@@ -65,13 +65,13 @@ import ImageGlobe from "../components/ImageGlobe.vue";
           <div class="xl:mt-5 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
             <p class="text-start xl:mt-0 p-3 pt-1 xl:p-2 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
             <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
-              <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
-                <a class="dark:text-black dark:font-bold text-gray-200 text-[16px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join Community</a>
+              <button class="p-3 bg-[#51e6e6] w-40 hover:bg-[#4effff] duration-300 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
+                <a class="dark:text-black dark:font-bold text-black text-center mx-auto text-[16px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join Community</a>
               </button>
             </div>
 
             <div class="ClassName hidden md:block lg:block xl:block">
-              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-12 md:flex md:justify-center lg:justify-start">
+              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-5 md:flex md:justify-center lg:justify-start">
                 <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
                   <div class="flex justify-center space-x-3">
                     <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
@@ -98,11 +98,11 @@ import ImageGlobe from "../components/ImageGlobe.vue";
               <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
               <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="#" target="_blank"></a></a>
             </div>
-            <div class="p-10 xl:p-3 rounded-2xl glass_background hidden md:block lg:block xl:flex items-center gap-6 lg:gap-12 justify-between grayscale lg:w-2/3">
+            <!-- <div class="p-10 xl:p-3 rounded-2xl glass_background hidden md:block lg:block xl:flex items-center gap-6 lg:gap-12 justify-between grayscale lg:w-2/3">
               <a href="#" target="_blank"><VSCode /></a>
               <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
               <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-            </div>
+            </div> -->
           </div>
 
           <!-- //image header// -->
@@ -115,7 +115,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
   </section>
 
   <div class="ClassName xl:p-0">
-    <div class="flex flex-col md:flex-row xl:mt-32 mt-9 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-8 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+    <div class="flex flex-col md:flex-row xl:mt-36 mt-9 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-8 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
       <div class="galleryGrid xl:p-7 p-0">
         <GalleryGrid />
       </div>
@@ -170,7 +170,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
         </div>
         <div class="text-center hidden md:block lg:flex xl:flex mt-14 xl:justify-center">
           <button class="p-4 bg-[#51e6e6] hover:bg-[#4effff] duration-300 hidden md:block lg:block xl:block hover:scale-95 hover:shadow-md dark:hover:shadow-sky-300 rounded-full">
-            <a class="dark:text-black hidden md:block lg:block xl:block text-gray-200 text-lg font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
+            <a class="dark:text-black hidden md:block lg:block xl:block text-black text-md font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join For Community</a>
           </button>
         </div>
       </div>
@@ -310,7 +310,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
                   <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg dark:shadow-gray-900 mt-3 bg-transparent outline-none focus:border-blue-500 bg-[#1c1c2e] text-white" />
                 </div>
                 <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl dark:shadow-gray-900 shadow-lg focus:outline-none bg-transparent focus:border-blue-500 bg-[#1c1c2e] text-white"></textarea>
-                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 bg-blue-500 hover:shadow-md hover:dark:shadow-sky-400 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600">Submit Form</button>
+                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-black font-semibold rounded-3xl hover:scale-95  bg-[#51e6e6] hover:bg-[#4effff] duration-300 hover:shadow-md hover:dark:shadow-sky-400 focus:outline-none focus:bg-blue-600">Submit Form</button>
               </form>
             </div>
           </div>
@@ -330,7 +330,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
         <div class="ClassName flex justify-center mt-10">
           <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 text-center md:block lg:block xl:block hover:scale-95 hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
-            <a class="dark:text-black text-gray-200 text-sm text-center font-medium" href="#header-home">back to up</a>
+            <a class="dark:text-black text-black text-sm text-center font-medium" href="#header-home">back to up</a>
           </button>
         </div>
         <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">

@@ -333,7 +333,7 @@ import pcIco from "../assets/ico/pcIco.vue";
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
         <div class="ClassName flex justify-center mt-10">
           <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 text-center md:block lg:block xl:block hover:scale-95 hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
-            <a class="dark:text-black text-gray-200 text-sm text-center font-medium" href="#header-contact">back to up</a>
+            <a class="dark:text-black text-black text-sm text-center font-medium" href="#header-contact">back to up</a>
           </button>
         </div>
         <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">

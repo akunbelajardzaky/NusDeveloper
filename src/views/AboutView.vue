@@ -25,7 +25,7 @@
           <p class="dark:text-gray-300 text-sm xl:text-base xl:leading-9 xl:mt-8 mt-4 xl:p-0 leading-6">Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami</p>
           <p class="dark:text-gray-300 xl:mt-9 mt-3 text-sm xl:text-base leading-8">Rating Kami Untuk kalian Semua</p>
           <div class="items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-6 xl:mt-16">
-            <a href="#" class="bg-blue-500 hidden md:block lg:block xl:block hover:bg-blue-600 mb-8 items-center text-center xl:mb-0 dark:text-gray-200 xl:w-60 text-white duration-100 p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
+            <a href="#" class="bg-[#51e6e6] hover:bg-[#4effff] duration-300 hidden md:block lg:block xl:block  mb-8 items-center text-center xl:mb-0 dark:text-black xl:w-60 text-black font-medium p-3 hover:shadow-md hover:shadow-sky-400 rounded-full hover:scale-95">Read More</a>
           </div>
         </div>
       </div>
@@ -316,7 +316,7 @@
         <p class="text-center desk_footer xl:mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-6 xl:leading-8">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
         <div class="ClassName flex justify-center mt-10">
           <button class="p-3 bg-[#51e6e6] hover:bg-[#4effff] duration-300 text-center md:block lg:block xl:block hover:scale-95 hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
-            <a class="dark:text-black text-gray-200 text-sm text-center font-medium" href="#header-about">back to up</a>
+            <a class="dark:text-black text-black text-sm text-center font-medium" href="#header-about">back to up</a>
           </button>
         </div>
         <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
