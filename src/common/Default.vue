@@ -27,9 +27,9 @@ import "../assets/css/responsive.css";
       <div class="container mx-auto items-center">
         <div class="flex wrapperrast justify-between items-center">
           <a href="#">
-            <div class="main-logo flex space-x-3 items-center">
+            <div class="main-logo flex gap-1 xl:gap-3 items-center">
               <img src="../assets/img/ND.png" class="rounded-full" width="30px" alt="" />
-              <h3 class="text-lg dark:text-white font-semibold">Nusantara Developer</h3>
+              <h3 class="text-lg xl:text-2xl tracking-tighter xl:tracking-tighter font-semibold dark:text-white xl:font-bold">Nusantara Developer</h3>
             </div>
           </a>
           <button @click="toggleNavbar" class="ml-4 md:hidden text-gray-500 focus:outline-none">
