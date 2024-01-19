@@ -16,7 +16,7 @@ import locationIco from "../assets/ico/locationIco.vue";
       <div class="mt-20">
         <div class="xl:container m-auto px-6 text-gray-600 md:px-12">
           <div class="dark:lg:bg-darker rounded-[4rem] md:flex flex-row-reverse md:gap-6 justify-between mx-auto md:space-y-0 lg:items-center">
-            <div class="md:5/12 lg:w-1/2">
+            <div class="md:5/12 lg:w-1/2 md:block lg:block xl:block hidden">
               <img src="../assets/img/staravatar.png" class="mx-auto image-hero-blog animate-up-down duration-100" alt="image" loading="lazy" width="500px" height="" />
             </div>
             <div class="md:7/12 mt-10 xl:mt-0 lg:w-2/3">

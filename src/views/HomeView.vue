@@ -71,7 +71,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
             </div>
 
             <div class="ClassName hidden md:block lg:block xl:block">
-              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-5 md:flex md:justify-center lg:justify-start">
+              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-10 md:flex md:justify-center lg:justify-start">
                 <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
                   <div class="flex justify-center space-x-3">
                     <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
