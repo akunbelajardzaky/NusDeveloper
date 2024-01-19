@@ -1,6 +1,5 @@
 <script setup>
 // //css file import location
-import VSCode from "../components/icons/VSCode.vue";
 import "../assets/css/keyframes.css";
 import "../assets/css/responsive.css";
 import "../assets/css/shineText.css";
@@ -32,7 +31,6 @@ import symfonyIco from "../components/icons/icoBackend/symfonyIco.vue";
 import laravelIco from "../components/icons/icoBackend/laravelIco.vue";
 import fastIco from "../components/icons/icoBackend/fastapiIco.vue";
 import djangoIco from "../components/icons/icoBackend/djangoIco.vue";
-import arrow from "../components/icons/arrow.vue";
 import Lightning from "../components/icons/lightning.vue";
 import chat from "../components/icons/chat.vue";
 import Insta from "../assets/ico/insta.vue";
@@ -63,7 +61,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
 
         <div class="md:flex lg:flex items-center justify-center">
           <div class="xl:mt-5 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-            <p class="text-start xl:mt-0 p-3 pt-1 xl:p-2 xl:leading-8 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
+            <p class="text-start xl:mt-0 p-3 pt-1 xl:p-2 xl:leading-10 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
             <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
               <button class="p-3 bg-[#51e6e6] w-40 hover:bg-[#4effff] duration-300 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
                 <a class="dark:text-black dark:font-bold text-black text-center mx-auto text-[16px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join Community</a>
@@ -98,11 +96,6 @@ import ImageGlobe from "../components/ImageGlobe.vue";
               <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
               <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="#" target="_blank"></a></a>
             </div>
-            <!-- <div class="p-10 xl:p-3 rounded-2xl glass_background hidden md:block lg:block xl:flex items-center gap-6 lg:gap-12 justify-between grayscale lg:w-2/3">
-              <a href="#" target="_blank"><VSCode /></a>
-              <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-              <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-            </div> -->
           </div>
 
           <!-- //image header// -->
@@ -138,8 +131,8 @@ import ImageGlobe from "../components/ImageGlobe.vue";
     <div class="ClassName">
       <div class="container bg-for-glowblue md:bg-transparent lg:bg-transparent xl:bg-transparent rounded-2xl mx-auto p-3 mt-8 xl:mt-32">
         <p class="text-start md:text-center text-sm font-light lg:text-center xl:text-center xl:font-medium dark:text-gray-200">ND Indonesia</p>
-        <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-100 xl:text-6xl mt-2 xl:mt-1 xl:font-semibold">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-        <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-lg xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
+        <h3 class="text-start md:text-center lg:text-center xl:text-center text-2xl leading-tight xl:leading-normal font-semibold dark:text-gray-100 xl:text-6xl mt-2 xl:mt-1 xl:font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
+        <p class="text-start md:text-center lg:text-center xl:text-center xl:leading-8 xl:text-base xl:mt-5 xl:w-1/3 mx-auto mt-3 leading-6 text-sm xl:p-0 dark:text-gray-300">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
         <div class="grid grid-cols-1 sm:grid-cols-2 xl:mt-20 mt-10 md:grid-cols-3 gap-6 xl:gap-20">
           <!-- Box 1 -->
           <div class="xl:p-4 p-2 shadow-sm xl:shadow-md xl:text-center rounded-xl dark:text-gray-200 text-lg">
@@ -310,7 +303,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
                   <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg dark:shadow-gray-900 mt-3 bg-transparent outline-none focus:border-blue-500 bg-[#1c1c2e] text-white" />
                 </div>
                 <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl dark:shadow-gray-900 shadow-lg focus:outline-none bg-transparent focus:border-blue-500 bg-[#1c1c2e] text-white"></textarea>
-                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-black font-semibold rounded-3xl hover:scale-95  bg-[#51e6e6] hover:bg-[#4effff] duration-300 hover:shadow-md hover:dark:shadow-sky-400 focus:outline-none focus:bg-blue-600">Submit Form</button>
+                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-black font-semibold rounded-3xl hover:scale-95 bg-[#51e6e6] hover:bg-[#4effff] duration-300 hover:shadow-md hover:dark:shadow-sky-400 focus:outline-none focus:bg-blue-600">Submit Form</button>
               </form>
             </div>
           </div>
