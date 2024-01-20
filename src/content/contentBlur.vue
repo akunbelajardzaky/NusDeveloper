@@ -2,7 +2,7 @@
   <div class="dm_sans">
     <div class="container mx-auto rounded-2xl">
       <div class="rounded-3xl 3xl:p-8">
-        <h2 class="text-start text-2xl p-3 xl:text-4xl font-bold dark:text-gray-100 mb-6">Feel the power of a greats <span class="text-sky-500 dark:text-blue-400 dark:text-shadow-lg font-semibold">community.</span></h2>
+        <h2 class="text-start text-2xl p-3 xl:text-4xl font-medium dark:text-gray-100 mb-6">Feel the power of a greats <span class="text-sky-500 dark:text-blue-400 dark:text-shadow-lg font-bold">community.</span></h2>
         <div class="grid grid-cols-1 text-start gap-2 xl:gap-5 sm:grid-cols-2 xl:mt-10 3xl:grid-cols-3">
           <div class="border dark:bg-[#1c1c2e] border-gray-300 dark:border-gray-800 hover-scale-flexbox rounded-3xl shadow p-6 hover:border-sky-400 hover:shadow-lg hover:shadow-sky-600/20 dark:hover:border-sky-300/30">
             <h3 class="text-6xl dark:text-gray-200 font-bold mb-2">1k</h3>

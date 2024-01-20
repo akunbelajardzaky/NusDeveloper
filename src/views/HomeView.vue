@@ -48,72 +48,18 @@ import ImageGlobe from "../components/ImageGlobe.vue";
 
 <template>
   <section id="header-home">
-    <div class="ClassAll">
-      <div class="relative xl:container mt-10 xl:mt-0 mx-auto">
-        <div class="blur-md xl:blur-none p-5 pt-0 xl:p-0 xl:pt-0 flex items-center">
-          <p class="ClassName md:hidden lg:hidden xl:hidden" style="text-shadow: 0px 0px 30px yellow">💡</p>
-          <p class="text-lg p-3 font-semibold text-orange-400 xl:blur-none xl:text-orange-400 text-start md:pt-12 lg:pt-20 lg:text-start xl:dark:text-orange-400 xl:font-medium lg:w-11/12">Daily Us Collaboration</p>
-        </div>
-        <h1 class="glow_text sm:mx-auto font-black text-blue-900 text-5xl text-start p-3 leading-[45px] xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-[95px] dark:text-white animate-spin-letters">
-          We Are <br class="lg:block hidden" />
-          <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
-        </h1>
-
-        <div class="md:flex lg:flex items-center justify-center">
-          <div class="xl:mt-5 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-            <p class="text-start xl:mt-0 p-3 pt-1 xl:p-2 xl:leading-10 leading-6 text-gray-700 text-sm xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
-            <div class="ClassName p-3 md:hidden lg:hidden xl:hidden">
-              <button class="p-3 bg-[#51e6e6] w-40 hover:bg-[#4effff] duration-300 hover:scale-95 justify-start flex hover:shadow-md hover:dark:shadow-sky-300 rounded-full">
-                <a class="dark:text-black dark:font-bold text-black text-center mx-auto text-[16px] font-medium" href="https://discord.gg/wkWdEGVx" target="_blank">join Community</a>
-              </button>
-            </div>
-
-            <div class="ClassName hidden md:block lg:block xl:block">
-              <div class="grid grid-cols-3 gap-5 xl:gap-0 p-5 xl:p-0 md:space-x-6 mt-0 xl:mt-10 md:flex md:justify-center lg:justify-start">
-                <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
-                  <div class="flex justify-center space-x-3">
-                    <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
-                    <span class="hidden font-medium md:block dark:text-gray-200">Slack</span>
-                  </div>
-                </a>
-                <a aria-label="add to chat" href="#" target="_blank" class="google_chat p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30">
-                  <div class="flex justify-center space-x-4">
-                    <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/chat.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                    <span class="hidden font-medium md:block dark:text-white">Google Chat</span>
-                  </div>
-                </a>
-                <a aria-label="add to zoom" href="#" target="_blank" class="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
-                  <div class="flex justify-center space-x-4">
-                    <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/zoom.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                    <span class="hidden font-medium md:block dark:text-white">Zoom</span>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="text-start text-sm dark:text-gray-300 hidden md:block lg:block xl:block mt-2 p-3 xl:mt-9">
-              🔥🌟
-              <span>Other integrations :</span>
-              <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
-              <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="#" target="_blank"></a></a>
-            </div>
-          </div>
-
-          <!-- //image header// -->
-          <div class="ClassName globe_mod hidden md:block lg:block xl:block">
-            <ImageGlobe />
-          </div>
-        </div>
-      </div>
-    </div>
+    <!-- Hero -->
+    
+    <!-- End Hero -->
   </section>
 
   <div class="ClassName xl:p-0">
-    <div class="flex flex-col md:flex-row xl:mt-20 mt-9 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-3 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
+    <div class="flex flex-col md:flex-row xl:mt-36 mt-9 lg:flex-row xl:flex justify-around gap-2 items-center xl:p-3 md:p-16 shadow-xl dark:border-gray-800 dark:bg-[#1c1c2e] rounded-3xl">
       <div class="galleryGrid xl:p-5 xl:pb-10 p-0">
         <GalleryGrid />
       </div>
       <div class="mt-2 xl:mt-0 md:w-1/2 mb-5 p-3 xl:p-0 xl:mb-0">
-        <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-start leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-sky-400">Friends </span>Web Developer From School</h3>
+        <h3 class="ClassName xl:w-full xl:leading-snug text-hero xl:text-start xl:text-[43px] text-3xl text-start leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-sky-400">Friends </span>Web Developer From School</h3>
         <p class="dark:text-gray-300 xl:mt-7 text-sm xl:p-0 mt-2 xl:text-lg text-start xl:text-start leading-6 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
         <div class="flex flex-wrap justify-start mt-3 xl:justify-start items-center xl:mt-14">
           <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700 mt-2" src="../assets/img/assetpeople/dirga.jpg" />
@@ -127,7 +73,7 @@ import ImageGlobe from "../components/ImageGlobe.vue";
   </div>
 
   <section>
-    <div class=" dark:bg-[#1c1c2e] h-52 rounded-3xl mx-auto mt-5">
+    <div class="dark:bg-[#1c1c2e] h-52 rounded-3xl mx-auto mt-10">
       <h3 class="font-medium text-2xl dark:text-gray-500 p-8">Trusted by developers from</h3>
       <div class="grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
         <div class="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
@@ -289,8 +235,8 @@ import ImageGlobe from "../components/ImageGlobe.vue";
         </div>
         <div class="mt-5 xl:mt-20 flex items-center text-start xl:text-start justify-between">
           <div>
-            <h2 class="xl:text-3xl text-2xl dark:text-gray-100 leading-normal font-bold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
-            <p class="dark:text-gray-300 mt-4 text-[13px] xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
+            <h2 class="xl:text-3xl text-2xl dark:text-gray-300 leading-normal font-bold">Awesome Framework Use <span class="dark:shadow-xl">⚙️</span></h2>
+            <p class="dark:text-gray-400 mt-4 text-[13px] xl:w-3/5 xl:text-lg xl:leading-9 leading-6 mb-3 xl:mb-0">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
           </div>
         </div>
       </div>

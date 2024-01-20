@@ -4,7 +4,7 @@
       <h1 class="text-2xl font-bold text-gray-100">Problem Sholving</h1>
     </div>
     <div class="content-text">
-      <p class="text-gray-300 max-desk-parallax2 text-start xl:text-lg xl:leading-9 text-sm xl:w-2/3 leading-6">Foto di atas ini ketika Nusantara Developer sedang Menyelesaikan Masalah dari Pihak Pihak yang bertanya. dari segi Frontend mapupun backend.</p>
+      <p class="text-gray-300 max-desk-parallax2 text-start xl:text-sm  xl:leading-7 text-sm xl:w-2/4 leading-6">Foto di atas ini ketika Nusantara Developer sedang Menyelesaikan Masalah dari Pihak Pihak yang bertanya. dari segi Frontend mapupun backend.</p>
     </div>
   </div>
 </template>

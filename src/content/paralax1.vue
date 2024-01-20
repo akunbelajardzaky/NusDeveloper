@@ -4,7 +4,7 @@
       <h1 class="text-2xl font-bold text-gray-100">Colaboration Program</h1>
     </div>
     <div class="content-text">
-      <p class="text-gray-300 max-desk-parallax1 text-start text-sm xl:text-lg xl:leading-8 leading-6">Foto di atas ini , menunjukan kami dapat Berkolaborasi antar sesama Programmer dan kami sangat Solid.</p>
+      <p class="text-gray-300 max-desk-parallax1 text-start text-sm xl:text-sm xl:leading-7 leading-6">Foto di atas ini , menunjukan kami dapat Berkolaborasi antar sesama Programmer dan kami sangat Solid.</p>
     </div>
   </div>
 </template>
