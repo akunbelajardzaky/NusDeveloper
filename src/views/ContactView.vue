@@ -138,6 +138,7 @@ import pcIco from "../assets/ico/pcIco.vue";
       </div>
     </div>
   </div>
+  
   <div class="flex-row xl:flex items-center gap-10 xl:p-10 p-5">
     <div class="max-w-md mx-auto bg-gray-100 dark:bg-[#1c1c2e] shadow-md rounded-xl hover:scale-105 duration-100 overflow-hidden md:max-w-2xl mb-4">
       <img class="w-full h-48 object-cover object-center hover:scale-105 duration-100" src="../assets/img/assetpeople/celis.jpg" alt="Profile Image" />
@@ -261,7 +262,7 @@ import pcIco from "../assets/ico/pcIco.vue";
     </div>
   </div>
 
-  <section class="ClassName mt-32">
+  <section class="ClassName mt-16">
     <div class="container px-6 py-10 mx-auto">
       <h1 class="text-3xl font-semibold text-gray-800 capitalize leading-8 xl:text-5xl dark:text-white">Other Request 💬</h1>
 

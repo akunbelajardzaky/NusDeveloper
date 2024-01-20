@@ -7,9 +7,3 @@
   </div>
 </template>
 
-
-<style>
-.header_img {
-  filter: drop-shadow(0px 0px 500px rgb(0, 255, 225));
-}
-</style>
